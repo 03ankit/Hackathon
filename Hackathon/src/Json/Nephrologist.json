@@ -1,0 +1,101 @@
+[
+  {
+    "id": 149092,
+    "doctor_id": 202847,
+    "practice_id": 212016,
+    "rank": "1",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-khushboo-rani-nephrology-patna-4870c9df-a4fb-4b47-bf04-f40a6e2b3276.jpg"
+    },
+    "doctor_name": "Dr. Khushboo Rani",
+    "specialization": "Nephrologist/Renal Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Nephrology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 12,
+    "city": "Patna",
+    "consultation_fees": 800,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 149192,
+    "doctor_id": 200847,
+    "practice_id": 212116,
+    "rank": "2",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-vijay-shankar-nephrologist-renal-specialist-patna-95c94012-abd4-4b17-aa85-4bdd24bc044c.jpg"
+    },
+    "doctor_name": "Dr. Vijay Shankar",
+    "specialization": "Nephrologist/Renal Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Nephrology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 13,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Wellness Kidney Clinic"
+  },
+  {
+    "id": 149193,
+    "doctor_id": 205847,
+    "practice_id": 212316,
+    "rank": "3",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-vinod-kumar-singh-nephrologist-renal-specialist-patna-e4b9cb42-9953-4ca1-8e6c-df03c56c06ef.jpg"
+    },
+    "doctor_name": "Dr. Vinod Kumar Singh",
+    "specialization": "Nephrologist/Renal Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Nephrology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 35,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Patna University",
+    "clinic_name": "Baidyanath Kidney Hospital"
+  }
+]

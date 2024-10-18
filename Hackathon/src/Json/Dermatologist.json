@@ -1,0 +1,307 @@
+[
+  {
+    "id": 377851,
+    "doctor_id": 444909,
+    "practice_id": 883715,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444909/dr-mathura-prasad-58e380c6e7a97.jpg"
+    },
+    "doctor_name": "Dr. Mathura Prasad",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 1967
+      },
+      {
+        "qualification": "DVD",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of Agra",
+        "completion_year": 1971
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1977
+      }
+    ],
+    "experience_years": 47,
+    "consultation_fees": 400,
+    "locality": "P.M.C.H",
+    "clinic_name": "Dr.Mathura Prasad Clinic"
+  },
+  {
+    "id": 378621,
+    "doctor_id": 445455,
+    "practice_id": 884841,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/445455/dr-amit-kumar-58e3812d7d47c.jpg"
+    },
+    "doctor_name": "Dr. Amit Kumar",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Stanley Medical College & Hospital , Chennai",
+        "completion_year": 2003
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 15,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Ashiananagar",
+    "clinic_name": "DVCS Clinic"
+  },
+  {
+    "id": 391181,
+    "doctor_id": 454774,
+    "practice_id": 901794,
+    "rank": "20",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Madhurendra Kumar Sinha",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1982
+      },
+      {
+        "qualification": "DDVL",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1987
+      }
+    ],
+    "experience_years": 37,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Punaichak",
+    "clinic_name": "Sinha Skin Hospital"
+  },
+  {
+    "id": 543378,
+    "doctor_id": 290604,
+    "practice_id": 1122204,
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/290604/dr-sudhanshu-kumar-5934e315db5ee.jpg"
+    },
+    "doctor_name": "Dr. Sudhanshu Kumar",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2002
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 22,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Kankarbagh",
+    "clinic_name": "Cutis Skin Clinic & Laser Center",
+    "summary": "Dr. Sudhanshu Kumar is a Dermatologist in Kankarbagh, Patna and has an experience of 7 years in this field. Dr. Sudhanshu Kumar practices at Cutis Skin Clinic & Laser Center in Kankarbagh, Patna. He completed MBBS from Darbhanga Medical College & Hospital in 2002 and MD - Dermatology from Patna Medical College & Hospital in 2011.\n\n\n"
+  },
+  {
+    "id": 544911,
+    "doctor_id": 567750,
+    "practice_id": 1123224,
+    "rank": "12",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Pushpendra Kumar Singh",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "ANMMCH",
+        "completion_year": 2005
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      }
+    ],
+    "consultation_fees": 300,
+    "locality": "Anisabad",
+    "clinic_name": "Tanishqa Skin Clinic"
+  },
+  {
+    "id": 561077,
+    "doctor_id": 578654,
+    "practice_id": 1134256,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-satish-kr-sinha-1480607116-5840458ca885c.jpg"
+    },
+    "doctor_name": "Dr. Satish Kr Sinha",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "DVD",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 33,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Khazpura",
+    "clinic_name": "Mind and skin clinic",
+    "summary": "Dr Satish kr Sinha is senior psychiatrist and dermatologist. He did MD in psychiatry from PMCH in 1995, and DVDL from RIMS, Ranchi  in 1991. he is working as professor at Nalanda medical college, Patna from 2005 till now.   he specialises in neuropsychiatry, drug deaddiction, depression and skin problems, and epilepsy. He practises at Balley  Rd, in Ashiana Digha road, near passport office."
+  },
+  {
+    "id": 668049,
+    "doctor_id": 709017,
+    "practice_id": 1241838,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/709017/dr-punkesh-5c6040093f88b.jpg"
+    },
+    "doctor_name": "Dr. Punkesh",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Bihar University",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 12,
+    "city": "Patna",
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Advance Skin Hair & Laser Clinic",
+    "summary": "Dr. Punkesh Kumar, after years of practice in dermatology and cosmetic clinics, started his own skin clinic 'Advance skin hair & Laser clinic\" in year 2018.\nClinic has invested in several skin Lasers and other skin treatment technologies that can provide lunch time treatment technologies that can provide lunch time treatment for excessive hair growth, Acne & surgical scars, Face Lifts, Pigmentation, Fine Lines, Icepick scars, Cellulite Reduction etc."
+  },
+  {
+    "id": 684355,
+    "doctor_id": 552751,
+    "practice_id": 1260342,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/552751/dr-sumit-sharma-5d1df0501f0e2.jpg"
+    },
+    "doctor_name": "Dr. Sumit Sharma",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Delhi",
+        "completion_year": 2000
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Government Dental College  Hospital, RIMS Kadapa",
+        "completion_year": 2005
+      }
+    ],
+    "experience_years": 18,
+    "city": "Patna",
+    "locality": "Khajpura",
+    "clinic_name": "Dermawave Skin Laser and Hair Transplant Centre",
+    "summary": "Dr. Sumit Sharma has done his specialization in MD (Skin & V.D) from RIMS, Ranchi in year 2005. He completed his MBBS from UCMS, Delhi and internship from GTB Hospital Delhi.  Dr. Sumit Sharma is a renowned Dermatologist and Hair Transplant Surgeon in Haryana with over a decade of experience in his field."
+  },
+  {
+    "id": 684362,
+    "doctor_id": 748243,
+    "practice_id": 1260342,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/748457/dr-dhiraj-kumar-5d199a7582231.jpeg"
+    },
+    "doctor_name": "Dr. Dhiraj Kumar",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Maharshtra University of Health Sciences",
+        "completion_year": 2010
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "The West Bengal University of Health Sciences (WBUHS), Kolkata",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 14,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Khajpura",
+    "clinic_name": "Dermawave Skin Laser and Hair Transplant Centre"
+  },
+  {
+    "id": 849994,
+    "doctor_id": 1022846,
+    "practice_id": 1412011,
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1022846/dr-kunal-sinha-63ce3cc5e2bff.PNG"
+    },
+    "doctor_name": "Dr. Kunal Sinha",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "is_qualification_valid_in_country": true,
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Redefine Skin & Dental Clinic"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": 541806,
+    "doctor_id": 565846,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Subhash Chandra Jha",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1987
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 37,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kidwaipuri",
+    "clinic_name": "Chest Clinic",
+    "summary": "Dr. Subhash Chandra Jha is a Pulmonologist and Respiratory Medicine Specialist and General Surgeon in Phulwarisharif, Patna and has an experience of 20 years in these fields. Dr. Subhash Chandra Jha practices at Chest Clinic in Phulwarisharif, Patna. He completed MBBS from Patna Medical College, Patna in 1987 and MS - General Surgery from Patna Medical College, Patna in 1993."
+  },
+  {
+    "id": 576125,
+    "doctor_id": 590273,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/590273/dr-purushottam-kumar-5cb0c7fdc4ac2.jpg"
+    },
+    "doctor_name": "Dr. Purushottam Kumar",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Bankura Sammilani Medical College & Hospital",
+        "completion_year": 2015
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Jawaharlal Nehru Medical College, Bhagalpur",
+        "completion_year": 2010
+      }
+    ],
+    "experience_years": 13,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Ramkrishan Nagar",
+    "clinic_name": "Save life Hospital"
+  },
+  {
+    "id": 599472,
+    "doctor_id": 618527,
+    "practice_id": 1158706,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/618527/dr-sujeet-kumar-bharti-59c129064be46.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-sujeet-kumar-bharti-general-surgeon-patna-679a7c59-4395-426e-a69b-327b5bbb2185.jpg",
+    "profile_url": "/patna/doctor/sujeet-kumar-bharti-general-surgeon?practice_id=1158706&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Sujeet Kumar Bharti",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Fatwa",
+    "clinic_name": "Max CareNCure Hospital"
+  },
+  {
+    "id": 639345,
+    "doctor_id": 670636,
+    "practice_id": 1195742,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/670636/dr-masleh-uddin-5b35c93918e15.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-masleh-uddin-general-surgeon-patna-54552326-ebfc-4d34-ade4-fe2ba3a14e3e.jpg",
+    "profile_url": "/patna/doctor/dr-masleh-uddin-general-surgery?practice_id=1195742&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Masleh Uddin",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Magadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 9,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Phulwarisharif",
+    "clinic_name": "Dr. M M Uddin"
+  },
+  {
+    "id": 669549,
+    "doctor_id": 721818,
+    "practice_id": 1170315,
+
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/721818/dr-mithilesh-kumar-5d7ca90a97d45.jpg"
+    },
+
+    "image_url": "https://imagesx.practo.com/providers/dr-mithilesh-kumar-general-surgeon-patna-1fcbdb12-3eba-4c35-b677-1db114956fe9.jpg",
+
+    "profile_url": "/patna/doctor/mithilesh-kumar-general-surgeon?practice_id=1170315&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Mithilesh Kumar",
+    "specialization": "General Surgeon",
+
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1982
+      }
+    ],
+    "experience_years": 35,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Beur",
+    "clinic_name": "Kamy General Hospital"
+  },
+  {
+    "id": 725894,
+    "doctor_id": 873725,
+    "practice_id": 1298276,
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/873725/dr-md-umar-abdullah-609cd6b0f3b4d.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-md-umar-abdullah-general-surgeon-patna-8eedf9f2-babc-47a8-95cf-40c62bd178aa.jpg",
+
+    "profile_url": "/patna/doctor/md-umar-abdullah-general-surgeon?practice_id=1298276&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Md Umar Abdullah",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Bhupendra Narayan Mandal University",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Siksha O Anusandhan University",
+        "completion_year": 2020
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Shareef Colony",
+    "clinic_name": "Healer Health Care"
+  },
+  {
+    "id": 743127,
+    "doctor_id": 897276,
+    "practice_id": 1314627,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/771804/dr-neeti-neha-5d88d79295012.png"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-neeti-neha-general-surgeon-patna-21e23d20-0329-4c27-9a03-f23a353dbd91.jpg",
+
+    "profile_url": "/patna/doctor/neeti-neha-general-surgeon-1?practice_id=1314627&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Neeti Neha",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+        "completion_year": 2009
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Aryabhatta Knowledge University, Patna",
+        "completion_year": 2015
+      }
+    ],
+    "experience_years": 9,
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Kankarbagh",
+    "clinic_name": "Hanuman Care",
+    "summary": "Dr. Neeti Neha is a General Surgeon, Laparoscopic Surgeon, Proctologist and Laser Circumcision Specialist in Rajbansi Nagar, Patna and has an experience of 8 years in these fields. She completed MBBS from Babasaheb Bhimrao Ambedkar Bihar University in 2011 and MS - General Surgery from Aryabhatta Knowledge University, Patna in 2015."
+  },
+  {
+    "id": 786964,
+    "doctor_id": 957600,
+    "practice_id": 1354578,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/957600/dr-manazir-hasnain-6130af942067c.png"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-manazir-hasnain-general-surgeon-patna-8b9a0444-b24d-408f-b0ca-f0363b50863d.jpg",
+    "profile_url": "/patna/doctor/manazir-hasnain-general-surgeon?practice_id=1354578&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Manazir Hasnain",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1984
+      }
+    ],
+    "experience_years": 45,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Kusum Hospital"
+  },
+  {
+    "id": 816147,
+    "doctor_id": 991517,
+    "practice_id": 1380447,
+    "rank": "18",
+    "profile_photo": {
+      "url": null
+    },
+    "image_url": null,
+    "profile_url": "/patna/doctor/dr-ashok-kumar-malviya-urologist?practice_id=1380447&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Ashok Kumar Malviya",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - Anaesthesiology",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1985
+      },
+      {
+        "qualification": "Diploma in Anesthesiology",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1988
+      }
+    ],
+    "experience_years": 34,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Health Care Center"
+  },
+  {
+    "id": 840479,
+    "doctor_id": 1028448,
+    "practice_id": 1404119,
+    "rank": "16",
+    "profile_photo": {
+      "url": null
+    },
+    "image_url": null,
+    "profile_url": "/patna/doctor/sarv-chikitsa-hospital-general-surgeon?practice_id=1404119&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Alakh",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2000
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Vijay Nagar",
+    "clinic_name": "Sarv Chikitsa "
+  }
+]

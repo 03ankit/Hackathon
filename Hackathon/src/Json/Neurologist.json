@@ -1,0 +1,135 @@
+[
+  {
+    "id": 727961,
+    "doctor_id": 789396,
+    "practice_id": 1300441,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-anil-kumar-jha-neurologist-patna-3c4536e7-7428-4d41-b1e7-bff453f8b863.jpg"
+    },
+    "doctor_name": "Dr. Anil Kumar Jha",
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      },
+      {
+        "qualification": "DNB - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 30,
+
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 207961,
+    "doctor_id": 785396,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sudhir-kumar-jha-neurologist-patna-874a9905-c2ea-4805-8491-8d1e9479b220.jpg"
+    },
+    "doctor_name": "Dr. Sudhir Kumar Jha",
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      },
+      {
+        "qualification": "DM - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 46,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Sri Krishnapuri",
+    "clinic_name": "Neurology Clinic"
+  },
+  {
+    "id": 200961,
+    "doctor_id": 705396,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-nitish-kumar-neurologist-patna-c7aaf1d5-1b18-4724-b20a-5ec9652457c0.jpg"
+    },
+    "doctor_name": "Dr. Nitish kumar",
+    "specialization": "Neurologist",
+    "qualifications": [
+        {
+            "qualification": "MBBS",
+            "is_qualification_valid_in_country": true,
+            "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+            "completion_year": 2013
+        },
+        {
+            "qualification": "DM - Neurology",
+            "is_qualification_valid_in_country": true,
+            "college": "B.P. Koirala Institute of Health Sciences",
+            "completion_year": 2019
+        }
+    ],
+    "experience_years": 17,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Neuro Centre"
+},
+{
+    "id": 207961,
+    "doctor_id": 785396,
+    "doctor_name": "Dr. Abhishek Kumar",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-abhishek-kumar-neurologist-patna-c44cf580-587e-49ba-8318-2383b9aa944a.jpg"
+    },
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      },
+      {
+        "qualification": "DM - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 16,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Ashiananagar",
+    "clinic_name": "Shyam Neuro Centre"
+  }
+]

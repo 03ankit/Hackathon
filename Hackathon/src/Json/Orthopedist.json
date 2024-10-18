@@ -1,0 +1,143 @@
+[
+  {
+    "id": 32469,
+    "doctor_id": 419633,
+    "practice_id": 793091,
+    "rank": "26",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-shamsul-hoda-spine-surgeon-ortho-patna-736e4ae4-f4f1-4854-a0ff-4ff897c2bfe5.jpg"
+    },
+    "doctor_name": "Dr. Shamsul Hoda",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "Diploma in Orthopaedics"
+      }
+    ],
+    "experience_years": 23,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Lohia Nagar",
+    "clinic_name": "Ortho World"
+  },
+  {
+    "id": 32369,
+    "doctor_id": 429633,
+    "practice_id": 793091,
+    "rank": "22",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sujit-kumar-orthopedic-surgeon-patna-955387fa-8276-4949-aa98-d1a772156cba.jpg"
+    },
+    "doctor_name": "Dr. Sujit Kumar",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "Diploma in Orthopaedics"
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Beur",
+    "clinic_name": "Medstar Hospital"
+  },
+  {
+    "id": 33369,
+    "doctor_id": 439633,
+    "practice_id": 793091,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-ravi-kumar-spine-surgeon-ortho-patna-b8afef0b-83ef-4678-913a-194a9e54bf76.jpg"
+    },
+    "doctor_name": "Dr. Ravi Kumar",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      }
+    ],
+    "experience_years": 15,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Anisabad",
+    "clinic_name": "O2O Clinic"
+  },
+  {
+    "id": 34369,
+    "doctor_id": 449633,
+    "practice_id": 793091,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-pankaj-kumar-orthopedic-surgeon-patna-d1d56da5-4385-4150-a582-0855b26c65a0.jpg"
+    },
+    "doctor_name": "Dr. Pankaj Kumar",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      }
+    ],
+    "experience_years": 26,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Sheikhpura",
+    "clinic_name": "Progressive Spine And Orthopaedics"
+  },
+  {
+    "id": 35369,
+    "doctor_id": 469633,
+    "practice_id": 793091,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-abhishek-kumar-das-orthopedic-surgeon-patna-356a1551-b9a8-4c74-8783-ca0f6adab375.jpg"
+    },
+    "doctor_name": "Dr. Abhishek Kumar Das",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      },
+      {
+        "qualification": "DNB - Orthopedics/Orthopedic Surgery"
+      }
+    ],
+    "experience_years": 20,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 604902,
+    "doctor_id": 624267,
+    "practice_id": 1161960,
+
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/624267/dr-rakesh-kumar-65d48aff91f95.jpg"
+    },
+    "doctor_name": "Dr. Rakesh Kumar",
+    "specialization": "Sexologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of calicut",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "DNB - Psychiatry",
+        "is_qualification_valid_in_country": true,
+        "college": "National Borad of Examinations Ministry of Health Government of India",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 20,
+
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Sheikhpura",
+    "clinic_name": "Manas Clinic"
+  },
+  {
+    "id": 721548,
+    "doctor_id": 866449,
+    "practice_id": 1294379,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/866449/dr-ranjit-kumar-sinha-5fec59acbac44.png"
+    },
+    "doctor_name": "Dr. Ranjit Kumar Sinha",
+    "specialization": "Sexologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1982
+      }
+    ],
+    "experience_years": 42,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Mithapur",
+    "clinic_name": "Aarogyam Clinical Hospital"
+  },
+  {
+    "id": 745617,
+    "doctor_id": 775116,
+    "practice_id": 1316545,
+
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/775116/dr-shashank-abhishek-5fe6caae4aed2.jpg"
+    },
+    "doctor_name": "Dr. Shashank Abhishek",
+    "specialization": "Sexologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Ranchi University",
+        "completion_year": 2006
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Utkal University, Orissa, India",
+        "completion_year": 2011
+      },
+      {
+        "qualification": "DNB - Urology/Genito - Urinary Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "National Board of Examination, India",
+        "completion_year": 2017
+      }
+    ],
+    "experience_years": 18,
+
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Rupas",
+    "clinic_name": "Nadiad Urology and Eye Center"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": 561077,
+    "doctor_id": 578654,
+    "practice_id": 1134256,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-satish-kr-sinha-1480607116-5840458ca885c.jpg"
+    },
+    "doctor_name": "Dr. Satish Kr Sinha",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "DVD",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 33,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Khazpura",
+    "clinic_name": "Mind and skin clinic"
+  },
+  {
+    "id": 604902,
+    "doctor_id": 624267,
+    "practice_id": 1161960,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/624267/dr-rakesh-kumar-65d48aff91f95.jpg"
+    },
+    "doctor_name": "Dr. Rakesh Kumar",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of calicut",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "DNB - Psychiatry",
+        "is_qualification_valid_in_country": true,
+        "college": "National Borad of Examinations Ministry of Health Government of India",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 20,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Sheikhpura",
+    "clinic_name": "Manas Clinic"
+  },
+  {
+    "id": 631916,
+    "doctor_id": 657662,
+    "practice_id": 1189874,
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/657662/mr-alok-ranjan-5ae498938ec10.jpg"
+    },
+    "doctor_name": "Dr. Alok Ranjan",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "The Tamil Nadu Dr. M.G.R. Medical University (TNMGRMU)",
+        "completion_year": 2005
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2004
+      }
+    ],
+    "experience_years": 16,
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Patliputra",
+    "clinic_name": "Ashalok Neuropsychiatry Clinic"
+  },
+  {
+    "id": 653062,
+    "doctor_id": 647320,
+    "practice_id": 1224159,
+
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/647320/dr-vijendra-nath-jha-5c2781431533a.jpg"
+    },
+    "doctor_name": "Dr. Vijendra Nath Jha",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 14,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Sri Krishnapuri",
+    "clinic_name": "Budhha Neuropsychiatry"
+  },
+  {
+    "id": 782222,
+    "doctor_id": 951157,
+    "practice_id": 1349725,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/950938/dr-k-p-sharma-60faf82633d25.png"
+    },
+    "doctor_name": "Dr. Kailash Prasad Sharma",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1984
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1993
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1979
+      }
+    ],
+    "experience_years": 44,
+
+    "city": "Patna",
+    "consultation_fees": 1000,
+    "locality": "Phulwarisharif",
+    "clinic_name": "Laser Clinic"
+  }
+]

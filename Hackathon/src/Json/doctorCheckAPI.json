@@ -1,0 +1,122 @@
+[
+  {
+    "id": 28,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447843-JnHUq.webp",
+    "value": 28,
+    "text": "Ayurveda"
+  },
+  {
+    "id": 6,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448094-6NFFP.webp",
+    "value": 6,
+    "text": "Cardiologist"
+  },
+  {
+    "id": 5,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448103-ylWJ4.webp",
+    "value": 5,
+    "text": "Dermatologist"
+  },
+  {
+    "id": 11,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448029-N3tPs.webp",
+    "value": 11,
+    "text": "ENT Specialist"
+  },
+  {
+    "id": 4,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448112-DXmnT.webp",
+    "value": 4,
+    "text": "Gastroenterologist"
+  },
+  {
+    "id": 1,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448497-MxZfc.webp",
+    "value": 1,
+    "text": "General Physician"
+  },
+  {
+    "id": 16,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447964-a5DaJ.webp",
+    "value": 16,
+    "text": "General Surgeon"
+  },
+  {
+    "id": 3,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448137-O5Hat.webp",
+    "value": 3,
+    "text": "Gynecologist & Obstetrician"
+  },
+  {
+    "id": 12,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448021-15JHE.webp",
+    "value": 12,
+    "text": "Homoeopath"
+  },
+  {
+    "id": 38,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1656397729-Lb8OD.webp",
+    "value": 38,
+    "text": "Neonatologist"
+  },
+  {
+    "id": 9,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448045-2MMee.webp",
+    "value": 9,
+    "text": "Nephrologist"
+  },
+  {
+    "id": 22,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447919-86cK6.webp",
+    "value": 22,
+    "text": "Neurologist"
+  },
+  {
+    "id": 13,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447990-Czg0c.webp",
+    "value": 13,
+    "text": "Ophthalmologist"
+  },
+  {
+    "id": 21,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447927-V3U5p.webp",
+    "value": 21,
+    "text": "Orthopedist"
+  },
+  {
+    "id": 2,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448150-FUToG.webp",
+    "value": 2,
+    "text": "Paediatrician"
+  },
+  {
+    "id": 15,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447972-lQ9se.webp",
+    "value": 15,
+    "text": "Physiotherapist"
+  },
+  {
+    "id": 10,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650448037-zyLZA.webp",
+    "value": 10,
+    "text": "Psychiatrist"
+  },
+  {
+    "id": 14,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447981-RftLC.webp",
+    "value": 14,
+    "text": "Sexologist"
+  },
+  {
+    "id": 26,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447882-u0yI8.webp",
+    "value": 26,
+    "text": "Veterinarian"
+  },
+  {
+    "id": 25,
+    "image": "https://s3.ap-south-1.amazonaws.com/doktors.co.in/doktors_main/category/category-1650447892-K2lbu.webp",
+    "value": 25,
+    "text": "Yoga & Naturopathy"
+  }
+]

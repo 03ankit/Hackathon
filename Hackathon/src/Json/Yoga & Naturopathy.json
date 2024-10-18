@@ -1,0 +1,30 @@
+[
+  {
+    "id": 132469,
+    "doctor_id": 408633,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sudhir-kumar-yoga-and-naturopathy-patna-3da32482-cd96-475a-9c55-bd56d5cc66c6.jpg"
+    },
+    "doctor_name": "Dr. Sudhir Kumar",
+    "specialization": "Yoga & Naturopathy",
+    "qualifications": [
+      {
+        "qualification": "Diploma in Naturopathy & Yogic Science (DNYS)",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MD - Acupuncture",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      }
+    ],
+    "experience_years": 26,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Ashiananagar",
+    "clinic_name": "Divya Arogyam Nature Cure Hospital"
+  }
+]

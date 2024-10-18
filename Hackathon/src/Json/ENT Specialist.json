@@ -1,0 +1,315 @@
+[
+  {
+    "id": 281758,
+    "doctor_id": 366930,
+    "practice_id": 756842,
+    "translated_new_slug": "dr-rajeev-ambastha-ear-nose-throat-ent-specialist",
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/5530ed9bd957d1aabac6d068eef6a7bad3fdf50a05cc8.jpg"
+    },
+    "doctor_name": "Dr. Rajeev Ambastha",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Malda Medical College and Hospital",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Malda Medical College and Hospital",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "Diploma in Tuberculosis and Chest Diseases (DTCD)",
+        "is_qualification_valid_in_country": true,
+        "college": "Malda Medical College and Hospital",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 10,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "ENT Planet"
+  },
+  {
+    "id": 396734,
+    "doctor_id": 459587,
+    "practice_id": 909355,
+
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/459587/dr-dr-sanjay-kumar-shahi-58e398bad1694.jpg"
+    },
+    "doctor_name": "Dr. Dr. Sanjay Kumar Shahi",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1995
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2002
+      }
+    ],
+    "experience_years": 26,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Dr. Sanjay Kumar Shahi Clinic"
+  },
+  {
+    "id": 396811,
+    "doctor_id": 459666,
+    "practice_id": 909686,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/459666/dr-md-ozair-58e396035b9e2.jpg"
+    },
+    "doctor_name": "Dr. Md.Ozair",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "A N Magadh Medical College, Gaya",
+        "completion_year": 2003
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 15,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Tripolia",
+    "clinic_name": "Alam Clinic"
+  },
+  {
+    "id": 524884,
+    "doctor_id": 555529,
+    "practice_id": 1111797,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-ratnesh-kumar-1469165822-5791b0fe5963a.jpg"
+    },
+    "doctor_name": "Dr. Ratnesh Kumar",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Byramjee Jeejeebhoy Government Medical College & Sasson General Hospital, Pune",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2012
+      }
+    ],
+    "experience_years": 15,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "R.K. ENT clinic"
+  },
+  {
+    "id": 644387,
+    "doctor_id": 679473,
+    "practice_id": 1210132,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/679473/dr-srinjeeta-garg-5ed076e6c59d3.jpg"
+    },
+    "doctor_name": "Dr. Srinjeeta Garg",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Dr. D.Y. Patil Medical College and Hospital, Navi  Mumbai.",
+        "completion_year": 2016
+      }
+    ],
+    "experience_years": 8,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "Ear, Nose, Throat and Head Neck Clinic"
+  },
+  {
+    "id": 646493,
+    "doctor_id": 682862,
+    "practice_id": 1219373,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/682862/dr-jairam-prasad-5baa191aaaa20.jpg"
+    },
+    "doctor_name": "Dr. Jairam Prasad",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1999
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "BBA University",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 25,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Anisabad",
+    "clinic_name": "Jai Hospital"
+  },
+  {
+    "id": 721060,
+    "doctor_id": 865652,
+    "practice_id": 1293970,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/865652/dr-ajit-kumar-5ee3387a27052.jpg"
+    },
+    "doctor_name": "Dr. Ajit Kumar",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1982
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1988
+      }
+    ],
+    "experience_years": 39,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "Dr. Ajit kumar"
+  },
+  {
+    "id": 727319,
+    "doctor_id": 875929,
+    "practice_id": 1299844,
+
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/875929/dr-nikhil-kumar-5f296022aa0df.jpg"
+    },
+    "doctor_name": "Dr. Nikhil Kumar",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Bharati Vidyapeeth University, Pune",
+        "completion_year": 2011
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Armed Forces Medical College (AFMC), Pune",
+        "completion_year": 2016
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Mithapur",
+    "clinic_name": "Sai Primus ENT And Physiotherapy"
+  },
+  {
+    "id": 771360,
+    "doctor_id": 936105,
+    "practice_id": 1339590,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/936105/dr-dr-rajaneesh-ranjan-60a54c77e7d1a.jpg"
+    },
+    "doctor_name": "Dr. Rajaneesh Ranjan",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1999
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 25,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Ojas ENT & Maternity Clinic"
+  },
+  {
+    "id": 857284,
+    "doctor_id": 1053006,
+    "practice_id": 1417801,
+
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1053006/dr-ashwini-64948acb2674c.jpeg"
+    },
+    "doctor_name": "Dr. Ashwini",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Banaras Hindu University",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Banaras Hindu University",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 31,
+    "city": "Patna",
+    "consultation_fees": 1500,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Ashwini ENT and Cosmetic Hospital"
+  }
+]

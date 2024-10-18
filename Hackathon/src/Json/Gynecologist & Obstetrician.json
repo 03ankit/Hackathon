@@ -1,0 +1,64 @@
+[
+  {
+    "id": 754105,
+    "doctor_id": 911288,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/911288/ms-rina-rani-603cf07aa5dd5.jpeg"
+    },
+    "doctor_name": "Dr. Rina Rani",
+    "specialization": "Gynecologist/Obstetrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Lalit Narayan Mithila University",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "DNB - Obstetrics & Gynecology",
+        "college": "National Board of Examination, India",
+        "completion_year": 2012
+      },
+      {
+        "qualification": "Fellowship in Reproductive Medicine",
+        "college": "Indira IVF Patna",
+        "completion_year": 2017
+      }
+    ],
+    "experience_years": 23,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Patna",
+    "clinic_name": "Indira IVF - Fertility and IVF Center"
+  },
+  {
+    "id": 930910,
+    "doctor_id": 1146562,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1146562/dr-bindu-sinha-666a9859803ae.png"
+    },
+    "doctor_name": "Dr. Bindu Sinha",
+    "specialization": "Gynecologist/Obstetrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "University of Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - Obstetrics & Gynaecology",
+        "college": "Lalith Narayan Mittila Vishwavidyalay",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "DNB - Obstetrics & Gynecology",
+        "college": "National Board Of Examinatiion",
+        "completion_year": 1999
+      }
+    ],
+    "experience_years": 42,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  }
+]

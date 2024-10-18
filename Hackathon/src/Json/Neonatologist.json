@@ -1,0 +1,42 @@
+[
+  {
+    "id": 512077,
+    "doctor_id": 5786544,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-anup-kumar-pediatrician-patna-390b1e9e-bee1-499b-be2f-396f41f60b7a.jpg"
+    },
+    "doctor_name": "Dr Anup Kumar",
+    "specialization": "Neonatologist",
+    "qualifications": [
+      {
+        "qualification": "Fellowship in Neonatology",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      },
+      {
+        "qualification": "DNB - Paediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 22,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Patna Children Hospital And Newborn Care Centre"
+  }
+]

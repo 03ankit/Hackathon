@@ -1,0 +1,142 @@
+[
+  {
+    "id": 890402,
+    "doctor_id": 424802,
+    "practice_id": 873428,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-deepak-gastroenterologist-patna-785d07c2-8b91-4515-93e1-b50ae9768989.jpg"
+    },
+    "doctor_name": "Dr. Deepak",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MDS - General Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 24,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Kankarbagh",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 891402,
+    "doctor_id": 425802,
+    "practice_id": 843428,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-pankaj-kumar-gastroenterologist-patna-ed70be6f-ad6f-40a7-a224-2a0836e80e56.jpg"
+    },
+    "doctor_name": "Dr. Pankaj Kumar",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 18,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Kankarbagh",
+    "clinic_name": ""
+  },
+  {
+    "id": 892402,
+    "doctor_id": 426802,
+    "practice_id": 844428,
+    "rank": "45",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-vijay-shanker-gastroenterologist-patna-2e014fb4-0413-4ea9-8e8b-1a0255845b6d.jpg"
+    },
+    "doctor_name": "Dr. Vijay Shanker",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 23,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Kankarbagh",
+    "clinic_name": ""
+  },
+  {
+    "id": 893402,
+    "doctor_id": 427802,
+    "practice_id": 845428,
+    "rank": "85",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-shantam-mohan-gastroenterologist-patna-66f458cc-f14f-4a53-bf15-d01896614d10.jpg"
+    },
+    "doctor_name": "Dr. Shantam Mohan",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 19,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Jawahar Lal Nehru Marg",
+    "clinic_name": "Near Mangal Market, & Atlantis Hospital"
+  },
+  {
+    "id": 894402,
+    "doctor_id": 428802,
+    "practice_id": 846428,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-uday-kumar-gastroenterologist-patna-d7031b0e-eb77-418f-b765-3eb668c0c5d5.jpg"
+    },
+    "doctor_name": "Dr. Uday Kumar",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 16,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Narayan Clinic"
+  }
+]

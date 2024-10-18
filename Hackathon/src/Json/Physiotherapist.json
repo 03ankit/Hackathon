@@ -1,0 +1,239 @@
+[
+  {
+    "id": 332469,
+    "doctor_id": 409633,
+    "practice_id": 793091,
+    "rank": "26",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/409633/mr-amrendra-kumar-58e369d6e6dde.jpg"
+    },
+    "doctor_name": "Mr. Amrendra Kumar   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      }
+    ],
+    "experience_years": 23,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankad Bagh",
+    "clinic_name": "Anumeha Physio Care Centre"
+  },
+  {
+    "id": 377344,
+    "doctor_id": 444597,
+    "practice_id": 882927,
+
+    "rank": "28",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444597/dr-s-khan-pt-58e380b093e1d.jpg"
+    },
+    "doctor_name": "Mr. S Khan   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "AAIDUDEC",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Ashiananagar",
+    "clinic_name": "Needs Physiotherapy Centre"
+  },
+  {
+    "id": 377449,
+    "doctor_id": 444668,
+    "practice_id": 883163,
+
+    "rank": "21",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444668/dr-shailendra-kumar-58e380be58d58.jpg"
+    },
+    "doctor_name": "Mr. Shailendra  Kumar   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Bihar College Of Physiotherapy & Occupational Therapy, Patna",
+        "completion_year": 1984
+      }
+    ],
+    "experience_years": 29,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "P.M.C.H",
+    "clinic_name": "Patliputra physiotherapy"
+  },
+  {
+    "id": 387690,
+    "doctor_id": 451546,
+    "practice_id": 897931,
+
+    "rank": "22",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/451546/dr-pintu-kumar-yadav-58e38883ed4c3.JPG"
+    },
+    "doctor_name": "Mr. Pintu Kumar Yadav   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "J M Institute of Speech and Hearing, Muzzafarpur",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Rukunpura",
+    "clinic_name": "Care and Cure Physiotherapy Center"
+  },
+  {
+    "id": 397381,
+    "doctor_id": 460166,
+    "practice_id": 911634,
+
+    "rank": "23",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/460166/dr-manish-kumar-58e398c66d878.jpg"
+    },
+    "doctor_name": "Mr. Manish Kumar   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of Magadh",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Shree Balaji Physithrapy Clinic"
+  },
+  {
+    "id": 624386,
+    "doctor_id": 646283,
+    "practice_id": 1181914,
+
+    "rank": "29",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Ms. Tripti   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Acharya Institute of Health Sciences",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 16,
+
+    "city": "Patna",
+    "consultation_fees": 250,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Pain Cure Physiotherapy Clinic & Rehabilitation Centre"
+  },
+  {
+    "id": 627471,
+    "doctor_id": 648756,
+    "practice_id": 1183874,
+    "rank": "25",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Ms. Sima Kumari   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "NIOH",
+        "completion_year": 2016
+      }
+    ],
+    "experience_years": 7,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Pahari",
+    "clinic_name": "Advance Physiotherapy & Rehab Centre"
+  },
+  {
+    "id": 849128,
+    "doctor_id": 1040094,
+    "practice_id": 1282334,
+
+    "rank": "27",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1040094/dr-namita-singh-63b9c7d1d0cd4.jpg"
+    },
+    "doctor_name": "Dr. Namita Singh   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Magadh Univerisity",
+        "completion_year": 2022
+      }
+    ],
+    "experience_years": 2,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Khagaul",
+    "clinic_name": "Samay Hospital"
+  },
+  {
+    "id": 853017,
+    "doctor_id": 1046151,
+    "practice_id": 1414989,
+    "rank": "24",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1046151/dr-akanchha-gupta-pt-64101104550ba.jpeg"
+    },
+    "doctor_name": "Dr. Akanchha Gupta   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "MPTh/MPT - Musculoskeletal Disorders and Sports Physiotherapy",
+        "is_qualification_valid_in_country": true,
+        "college": "ISIC Institute of Rehabilitation Sciences ,Vasant Kunj .New Delhi",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Devi Ahilya Vishwa Vidhyalaya, Indore, M.P.",
+        "completion_year": 2015
+      }
+    ],
+    "experience_years": 8,
+
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Gardanibagh",
+    "clinic_name": "CasaMed"
+  }
+]

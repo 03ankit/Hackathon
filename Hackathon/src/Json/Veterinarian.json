@@ -1,0 +1,30 @@
+[
+    {
+        "id": 561177,
+        "doctor_id": 5785654,
+        "profile_photo": {
+          "url": "https://imagesx.practo.com/providers/dr-amresh-kumar-veterinary-physician-patna-7bbdc6d2-201a-4b4c-911c-3782ba635d88.jpg"
+        },
+        "doctor_name": "Dr. Amresh Kumar",
+        "specialization": "Veterinarian",
+        "qualifications": [
+          {
+            "qualification": "M. V. Sc",
+            "is_qualification_valid_in_country": true,
+            "college": "Rajendra Institute of Medical Sciences, Ranchi",
+            "completion_year": 1991
+          },
+          {
+            "qualification": "Bachelor in Veterinary Science and Animal Husbandary (BVSc & AH)",
+            "is_qualification_valid_in_country": true,
+            "college": "Patna Medical College, Patna",
+            "completion_year": 1995
+          }
+        ],
+        "experience_years": 14,
+        "city": "Patna",
+        "consultation_fees": 200,
+        "locality": "Kankarbagh",
+        "clinic_name": ""
+      }
+]

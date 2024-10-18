@@ -1,0 +1,134 @@
+[
+  {
+    "id": 149994,
+    "doctor_id": 2022846,
+    "practice_id": 2412011,
+    "rank": "1",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-kamlesh-kumar-cardiologist-patna-ae489147-dc8a-4fd6-9457-ac0b850d7806.jpg"
+    },
+    "doctor_name": "Dr. Kamlesh  Sinha",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "DM - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 12,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 149990,
+    "doctor_id": 2022845,
+    "practice_id": 2412012,
+    "rank": "2",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-gyan-prakash-cardiologist-patna-f47c7b3f-01a8-403f-8764-1bff09adfdce.jpg"
+    },
+    "doctor_name": "Dr. Gyan Prakash",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "DM - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 8,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 149991,
+    "doctor_id": 2022844,
+    "practice_id": 2412019,
+    "rank": "3",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-pramod-kumar-ojha-cardiologist-patna-7d052e52-fb62-4ee5-a1fc-04125ffcdfbf.jpg"
+    },
+    "doctor_name": "Dr. Pramod Kumar Ojha",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DNB - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 17,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Ashiananagar",
+    "clinic_name": "Arogya Nilayam"
+  },
+  {
+    "id": 149992,
+    "doctor_id": 2022847,
+    "practice_id": 2412016,
+    "rank": "4",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-virendra-prasad-sinha-cardiologist-patna-3e4ac5f3-4b39-467b-862f-7e50dbfeb348.jpg"
+    },
+    "doctor_name": "Dr. Virendra Prasad Sinha",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 39,
+    "city": "Patna",
+    "consultation_fees": 800,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Balaji Heart Center"
+  }
+]

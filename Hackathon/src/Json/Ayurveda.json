@@ -1,0 +1,96 @@
+[
+  {
+    "id": 194198,
+    "doctor_id": 157371,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-chandrashekhar-pandey-ayurveda-patna-d5e0834c-bb0a-4e81-9652-5b7c9d2b646e.jpg"
+    },
+    "doctor_name": "Dr. Chandrashekhar Pandey",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 22,
+    "city": "Patna",
+    "consultation_fees": 299,
+    "locality": "Kankad Bagh",
+    "clinic_name": "Jiva Ayurveda Clinic"
+  },
+  {
+    "id": 19410,
+    "doctor_id": 157370,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-mohan-mishra-ayurveda-jalandhar-aee1f6e0-c291-4423-beda-220a847d0cb3.jpg"
+    },
+    "doctor_name": "Dr. Mohan Mishra",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 10,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Raja Bazar",
+    "clinic_name": "Jiva Ayurveda Clinic"
+  },
+  {
+    "id": 19411,
+    "doctor_id": 157371,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sona-s-haridas-ayurveda-patna-335be344-24ea-4d42-a19c-94a26c9e348a.jpg"
+    },
+    "doctor_name": "Dr. Sona S Haridas",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 5,
+    "city": "Patna",
+    "consultation_fees": 299,
+    "locality": "Kankad Bagh",
+    "clinic_name": "Jiva Ayurveda Clinic"
+  },
+  {
+    "id": 19411,
+    "doctor_id": 157371,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-ashutosh-kumar-ayurveda-patna-21ff8fcb-4c54-4171-947c-db1c82bdbae4.jpg"
+    },
+    "doctor_name": "Dr. Ashutosh Kumar",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - Ayurveda Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 33,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Shri Krishna Ayurvedic Clinic"
+  }
+]

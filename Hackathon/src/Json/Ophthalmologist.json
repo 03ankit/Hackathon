@@ -1,0 +1,228 @@
+[
+  {
+    "id": 377453,
+    "doctor_id": 444674,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444674/dr-anurag-verma-58e380b3e341c.jpg"
+    },
+    "profile_url": "/patna/doctor/dr-anurag-verma-1-ophthalmologist?practice_id=883165&specialization=Ophthalmologist&referrer=doctor_listing&page_uid=4636298d-a784-47b5-8e8a-cde34ab5efa5",
+    "doctor_name": "Dr. Anurag Verma",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1999
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 2005
+      }
+    ],
+    "experience_years": 19,
+    "city": "Patna",
+    "consultation_fees": 250,
+    "locality": "Ashiananagar",
+    "clinic_name": "Divyajyoti Eye Clinic"
+  },
+  {
+    "id": 403910,
+    "doctor_id": 465945,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/465945/dr-sachin-kumar-58e39709a903e.jpg"
+    },
+    "doctor_name": "Dr. Sachin Kumar",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "A N Magadh Medical College, Gaya",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 13,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Patna",
+    "clinic_name": "Lahan Netralay"
+  },
+  {
+    "id": 579613,
+    "doctor_id": 593454,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Prakash Kumar",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "DOMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 15,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Bihta",
+    "clinic_name": "Divya jyoti netralaya"
+  },
+  {
+    "id": 620978,
+    "doctor_id": 642296,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Ajeet Kumar Dwivedi",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Magadh University",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "U.LN Mithila",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Kankarbagh",
+    "clinic_name": "Sharda Eye and Dental Hospital"
+  },
+  {
+    "id": 646490,
+    "doctor_id": 682859,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. R. K. Satyapal",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Institute of Medical Sciences, Banaras Hindu University (IMS-BHU)",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Gulzarbagh",
+    "clinic_name": "Swastik Eye Care Centre"
+  },
+  {
+    "id": 649029,
+    "doctor_id": 687919,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Kumar Vivek",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "NRS Medical College and Hospital",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "MD - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "AIIMS, New Delhi",
+        "completion_year": 2012
+      }
+    ],
+    "experience_years": 12,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Rukunpura",
+    "clinic_name": "Sarvdrishti Eye Hospital"
+  },
+  {
+    "id": 677874,
+    "doctor_id": 739852,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Himanshu Kumar",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "DNB - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Govt. Rajaji Hospital, Madurai",
+        "completion_year": 2006
+      }
+    ],
+    "experience_years": 18,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "BSL Eye Care"
+  },
+  {
+    "id": 743315,
+    "doctor_id": 897540,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/897540/dr-rajesh-agarwal-60016d1e644ac.jpg"
+    },
+    "doctor_name": "Dr. Rajesh Agarwal",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "R.G. Kar College, Kolkata",
+        "completion_year": 2010
+      },
+      {
+        "qualification": "DNB - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "National Board of Examination, India",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Medical College, Calcutta",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MRCS (UK)",
+        "is_qualification_valid_in_country": true,
+        "college": "The Royal College of Surgeons, UK",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 14,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Buddha Eye Care and Laser Center"
+  }
+]

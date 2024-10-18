@@ -1,0 +1,295 @@
+[
+  {
+    "id": 333901,
+    "doctor_id": 410609,
+    "practice_id": 793908,
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/410609/dr-mukul-kumar-58e369f24beda.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-mukul-kumar-general-physician-patna-3affe600-7487-4b2b-b1a4-9a00f2991768.jpg",
+    "profile_url": "/patna/doctor/dr-mukul-kumar-general-physician?practice_id=793908&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Mukul Kumar",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajendra Medical College & Hospital",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1985
+      }
+    ],
+    "experience_years": 45,
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Kankarbagh",
+    "clinic_name": "Dr. Mukul Kumar Clinic"
+  },
+  {
+    "id": 387424,
+    "doctor_id": 451486,
+    "practice_id": 897642,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/451486/dr-sangita-kumari-58e38643d90fc.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-sangita-kumari-obstetrician-patna-6660e88a-6843-4480-8b39-90d84f825069.jpg",
+
+    "profile_url": "/patna/doctor/dr-sangita-kumari-gynecologist-obstetrician?practice_id=897642&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Sangita Kumari",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1990
+      },
+      {
+        "qualification": "DGO",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1998
+      }
+    ],
+    "experience_years": 26,
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Mahendru",
+    "clinic_name": "Dr.Sangita Kumari Clinic"
+  },
+  {
+    "id": 398463,
+    "doctor_id": 461199,
+    "practice_id": 913572,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/461199/dr-panchanand-prasad-58e3964fa45fb.jpg"
+    },
+    "care_one_image": "",
+    "image_url": "https://imagesx.practo.com/providers/dr-panchanand-prasad-general-physician-patna-b93683a9-27a4-4614-bcf6-b4381d37b77e.jpg",
+    "profile_url": "/patna/doctor/dr-panchanand-prasad-general-physician?practice_id=913572&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Panchanand Prasad",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1971
+      }
+    ],
+    "experience_years": 52,
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Sandalpur",
+    "clinic_name": "Dr.P.Prasad Clinic"
+  },
+  {
+    "id": 401914,
+    "doctor_id": 464179,
+    "practice_id": 918209,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-rajendra-kumar-1471332371-57b2c0131b8e9.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-rajendra-kumar-orthopedic-surgeon-patna-5b72942b-a631-4157-8217-8cbc8d8bedaf.jpg",
+
+    "profile_url": "/patna/doctor/dr-rajendra-kumar-1-orthopedist?practice_id=918209&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Rajendra Kumar",
+    "specialization": "General Physician",
+
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1969
+      }
+    ],
+    "experience_years": 52,
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Kumar Fracture & Orthopaedic Centre"
+  },
+  {
+    "id": 401991,
+    "doctor_id": 464344,
+    "practice_id": 918601,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/464344/dr-nand-kishore-vidyarthi-58e398b680517.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-nand-kishore-vidyarthi-general-surgeon-patna-c9c8274d-ac85-41f0-8956-a1e4c544c28e.jpg",
+    "profile_url": "/patna/doctor/dr-nand-kishore-vidyarthi-general-surgeon?practice_id=918601&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Nand Kishore Vidyarthi",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1972
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1977
+      }
+    ],
+    "experience_years": 49,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Care Poly Clinic & Surgical Center"
+  },
+  {
+    "id": 402340,
+    "doctor_id": 464640,
+    "practice_id": 918873,
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/464640/dr-tara-chand-lakhmani-58e398b4036b2.jpg"
+    },
+    "care_one_image": "",
+    "image_url": "https://imagesx.practo.com/providers/dr-tara-chand-lakhmani-general-physician-patna-9cf79208-4ac1-43e0-80b0-86145ff054c9.jpg",
+    "profile_url": "/patna/doctor/dr-tara-chand-lakhmani-general-physician?practice_id=918873&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Tara Chand Lakhmani",
+    "specialization": "General Physician",
+    "experience_years": 49,
+    "clinic_name": "Lakhmani Pain Clinic",
+    "locality": "Boring Canal Road",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "subharti medical college, meerut",
+        "completion_year": 1975
+      },
+      {
+        "qualification": "Diploma in Health Administration",
+        "college": "Apollo Hospitals",
+        "completion_year": 2015
+      }
+    ]
+  },
+  {
+    "id": 403236,
+    "doctor_id": 465362,
+    "city": "Patna",
+    "practice_id": 920674,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/465362/dr-d-n-singh-58e398b2f08f3.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-d-n-singh-general-physician-patna-c159ea12-da42-4ede-97c4-e152f178606a.jpg",
+    "profile_url": "/patna/doctor/dr-d-n-singh-general-physician?practice_id=920674&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. D N singh",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "MGM Institute of Health Science, Bombay",
+        "completion_year": 1978
+      },
+      {
+        "qualification": "Diploma in Tuberculosis and Chest Diseases (DTCD)",
+        "is_qualification_valid_in_country": true,
+        "college": "MGM Institute of Health Science, Bombay",
+        "completion_year": 1980
+      }
+    ],
+    "experience_years": 44,
+    "consultation_fees": 200,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Dr. D N singh Clinic"
+  },
+  {
+    "id": 441367,
+    "doctor_id": 497610,
+    "practice_id": 1011807,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-kunal-kundan-1451133900-567e8bcc2b1ae.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-kunal-kundan-diabetologist-patna-9e7d59d8-2013-4e50-9a97-9aba7cb990ce.jpg",
+    "profile_url": "/patna/doctor/kunal-kundan-diabetologist?practice_id=1011807&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Kunal Kundan",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Kathmandu Medical College",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 15,
+    "consultation_fees": 400,
+    "locality": "Kadamkuan",
+    "city": "Patna",
+    "clinic_name": "Janki Diabetes Care Center (Dr. Kunal Kundan)"
+  },
+  {
+    "id": 614698,
+    "doctor_id": 635271,
+    "practice_id": 1172534,
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/635271/dr-sanjay-kumar-5e32b765e25c1.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-sanjay-kumar-tuberculous-and-chest-diseases-specialist-patna-4b423fcd-5978-4b18-9712-42667420d714.jpg",
+    "profile_url": "/patna/doctor/dr-sanjay-kumar-12-general-physician-1?practice_id=1172534&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Sanjay Kumar",
+    "city": "Patna",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MD - Pharmacology",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2016
+      },
+      {
+        "qualification": "Diploma in Tuberculosis and Chest Diseases (DTCD)",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Tilka Manjhi Bhagalpur University",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 14,
+    "consultation_fees": 600,
+    "locality": "Kumhrar",
+    "clinic_name": "Life Line Health Care",
+    "summary": "Dedicated towards patients well being."
+  },
+  {
+    "id": 758893,
+    "doctor_id": 915037,
+    "practice_id": 1327774,
+    "city": "Patna",
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/915037/dr-mohammad-taqui-imam-606f113faaa67.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-mohammad-taqui-imam-general-physician-patna-4b242853-a64b-4942-86ed-d5d2e0f0fef1.jpg",
+    "profile_url": "/patna/doctor/mohammad-taqui-imam-pediatrician-1?practice_id=1327774&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Mohammad Taqui Imam",
+    "specialization": "General Physician",
+    "clinic_name": "Dr. Imam’s Mother and Child Care Clinic",
+    "locality": "Anisabad",
+    "consultation_fees": 500,
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2015
+      }
+    ],
+    "experience_years": 9,
+    "summary": " Dr. Mohammad Taqui Imam had done M.D. Pediatrics in 2019. After completing my  post graduation i joined Kurji Holy Family Hospital ,patna after doing job for approximate 1 year, i joined as a consultant in M. S. M. Hospital,Phulwarisharif. I have my own clinic in the name of Dr. Imam\"s Mother and child care clinic in Anisabad at Balammichak more,patna."
+  }
+]

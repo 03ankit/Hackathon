@@ -1,0 +1,3418 @@
+[
+  {
+    "id": 194198,
+    "doctor_id": 157371,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-chandrashekhar-pandey-ayurveda-patna-d5e0834c-bb0a-4e81-9652-5b7c9d2b646e.jpg"
+    },
+    "doctor_name": "Dr. Chandrashekhar Pandey",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 22,
+    "city": "Patna",
+    "consultation_fees": 299,
+    "locality": "Kankad Bagh",
+    "clinic_name": "Jiva Ayurveda Clinic"
+  },
+  {
+    "id": 19410,
+    "doctor_id": 157370,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-mohan-mishra-ayurveda-jalandhar-aee1f6e0-c291-4423-beda-220a847d0cb3.jpg"
+    },
+    "doctor_name": "Dr. Mohan Mishra",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 10,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Raja Bazar",
+    "clinic_name": "Jiva Ayurveda Clinic"
+  },
+  {
+    "id": 19411,
+    "doctor_id": 157371,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sona-s-haridas-ayurveda-patna-335be344-24ea-4d42-a19c-94a26c9e348a.jpg"
+    },
+    "doctor_name": "Dr. Sona S Haridas",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 5,
+    "city": "Patna",
+    "consultation_fees": 299,
+    "locality": "Kankad Bagh",
+    "clinic_name": "Jiva Ayurveda Clinic"
+  },
+  {
+    "id": 19411,
+    "doctor_id": 157371,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-ashutosh-kumar-ayurveda-patna-21ff8fcb-4c54-4171-947c-db1c82bdbae4.jpg"
+    },
+    "doctor_name": "Dr. Ashutosh Kumar",
+    "specialization": "Ayurveda",
+    "qualifications": [
+      {
+        "qualification": "BAMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - Ayurveda Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 33,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Shri Krishna Ayurvedic Clinic"
+  },
+  {
+    "id": 149994,
+    "doctor_id": 2022846,
+    "practice_id": 2412011,
+    "rank": "1",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-kamlesh-kumar-cardiologist-patna-ae489147-dc8a-4fd6-9457-ac0b850d7806.jpg"
+    },
+    "doctor_name": "Dr. Kamlesh  Sinha",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "DM - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 12,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 149990,
+    "doctor_id": 2022845,
+    "practice_id": 2412012,
+    "rank": "2",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-gyan-prakash-cardiologist-patna-f47c7b3f-01a8-403f-8764-1bff09adfdce.jpg"
+    },
+    "doctor_name": "Dr. Gyan Prakash",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "DM - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 8,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 149991,
+    "doctor_id": 2022844,
+    "practice_id": 2412019,
+    "rank": "3",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-pramod-kumar-ojha-cardiologist-patna-7d052e52-fb62-4ee5-a1fc-04125ffcdfbf.jpg"
+    },
+    "doctor_name": "Dr. Pramod Kumar Ojha",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DNB - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 17,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Ashiananagar",
+    "clinic_name": "Arogya Nilayam"
+  },
+  {
+    "id": 149992,
+    "doctor_id": 2022847,
+    "practice_id": 2412016,
+    "rank": "4",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-virendra-prasad-sinha-cardiologist-patna-3e4ac5f3-4b39-467b-862f-7e50dbfeb348.jpg"
+    },
+    "doctor_name": "Dr. Virendra Prasad Sinha",
+    "specialization": "Cardiologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Cardiology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 39,
+    "city": "Patna",
+    "consultation_fees": 800,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Balaji Heart Center"
+  },
+  {
+    "id": 377851,
+    "doctor_id": 444909,
+    "practice_id": 883715,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444909/dr-mathura-prasad-58e380c6e7a97.jpg"
+    },
+    "doctor_name": "Dr. Mathura Prasad",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 1967
+      },
+      {
+        "qualification": "DVD",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of Agra",
+        "completion_year": 1971
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1977
+      }
+    ],
+    "experience_years": 47,
+    "consultation_fees": 400,
+    "locality": "P.M.C.H",
+    "clinic_name": "Dr.Mathura Prasad Clinic"
+  },
+  {
+    "id": 378621,
+    "doctor_id": 445455,
+    "practice_id": 884841,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/445455/dr-amit-kumar-58e3812d7d47c.jpg"
+    },
+    "doctor_name": "Dr. Amit Kumar",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Stanley Medical College & Hospital , Chennai",
+        "completion_year": 2003
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 15,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Ashiananagar",
+    "clinic_name": "DVCS Clinic"
+  },
+  {
+    "id": 391181,
+    "doctor_id": 454774,
+    "practice_id": 901794,
+    "rank": "20",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Madhurendra Kumar Sinha",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1982
+      },
+      {
+        "qualification": "DDVL",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1987
+      }
+    ],
+    "experience_years": 37,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Punaichak",
+    "clinic_name": "Sinha Skin Hospital"
+  },
+  {
+    "id": 543378,
+    "doctor_id": 290604,
+    "practice_id": 1122204,
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/290604/dr-sudhanshu-kumar-5934e315db5ee.jpg"
+    },
+    "doctor_name": "Dr. Sudhanshu Kumar",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2002
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 22,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Kankarbagh",
+    "clinic_name": "Cutis Skin Clinic & Laser Center",
+    "summary": "Dr. Sudhanshu Kumar is a Dermatologist in Kankarbagh, Patna and has an experience of 7 years in this field. Dr. Sudhanshu Kumar practices at Cutis Skin Clinic & Laser Center in Kankarbagh, Patna. He completed MBBS from Darbhanga Medical College & Hospital in 2002 and MD - Dermatology from Patna Medical College & Hospital in 2011.\n\n\n"
+  },
+  {
+    "id": 544911,
+    "doctor_id": 567750,
+    "practice_id": 1123224,
+    "rank": "12",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Pushpendra Kumar Singh",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "ANMMCH",
+        "completion_year": 2005
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      }
+    ],
+    "consultation_fees": 300,
+    "locality": "Anisabad",
+    "clinic_name": "Tanishqa Skin Clinic"
+  },
+  {
+    "id": 561077,
+    "doctor_id": 578654,
+    "practice_id": 1134256,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-satish-kr-sinha-1480607116-5840458ca885c.jpg"
+    },
+    "doctor_name": "Dr. Satish Kr Sinha",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "DVD",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 33,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Khazpura",
+    "clinic_name": "Mind and skin clinic",
+    "summary": "Dr Satish kr Sinha is senior psychiatrist and dermatologist. He did MD in psychiatry from PMCH in 1995, and DVDL from RIMS, Ranchi  in 1991. he is working as professor at Nalanda medical college, Patna from 2005 till now.   he specialises in neuropsychiatry, drug deaddiction, depression and skin problems, and epilepsy. He practises at Balley  Rd, in Ashiana Digha road, near passport office."
+  },
+  {
+    "id": 668049,
+    "doctor_id": 709017,
+    "practice_id": 1241838,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/709017/dr-punkesh-5c6040093f88b.jpg"
+    },
+    "doctor_name": "Dr. Punkesh",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Bihar University",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 12,
+    "city": "Patna",
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Advance Skin Hair & Laser Clinic",
+    "summary": "Dr. Punkesh Kumar, after years of practice in dermatology and cosmetic clinics, started his own skin clinic 'Advance skin hair & Laser clinic\" in year 2018.\nClinic has invested in several skin Lasers and other skin treatment technologies that can provide lunch time treatment technologies that can provide lunch time treatment for excessive hair growth, Acne & surgical scars, Face Lifts, Pigmentation, Fine Lines, Icepick scars, Cellulite Reduction etc."
+  },
+  {
+    "id": 684355,
+    "doctor_id": 552751,
+    "practice_id": 1260342,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/552751/dr-sumit-sharma-5d1df0501f0e2.jpg"
+    },
+    "doctor_name": "Dr. Sumit Sharma",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Delhi",
+        "completion_year": 2000
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "Government Dental College  Hospital, RIMS Kadapa",
+        "completion_year": 2005
+      }
+    ],
+    "experience_years": 18,
+    "city": "Patna",
+    "locality": "Khajpura",
+    "clinic_name": "Dermawave Skin Laser and Hair Transplant Centre",
+    "summary": "Dr. Sumit Sharma has done his specialization in MD (Skin & V.D) from RIMS, Ranchi in year 2005. He completed his MBBS from UCMS, Delhi and internship from GTB Hospital Delhi.  Dr. Sumit Sharma is a renowned Dermatologist and Hair Transplant Surgeon in Haryana with over a decade of experience in his field."
+  },
+  {
+    "id": 684362,
+    "doctor_id": 748243,
+    "practice_id": 1260342,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/748457/dr-dhiraj-kumar-5d199a7582231.jpeg"
+    },
+    "doctor_name": "Dr. Dhiraj Kumar",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Maharshtra University of Health Sciences",
+        "completion_year": 2010
+      },
+      {
+        "qualification": "MD - Dermatology , Venereology & Leprosy",
+        "is_qualification_valid_in_country": true,
+        "college": "The West Bengal University of Health Sciences (WBUHS), Kolkata",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 14,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Khajpura",
+    "clinic_name": "Dermawave Skin Laser and Hair Transplant Centre"
+  },
+  {
+    "id": 849994,
+    "doctor_id": 1022846,
+    "practice_id": 1412011,
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1022846/dr-kunal-sinha-63ce3cc5e2bff.PNG"
+    },
+    "doctor_name": "Dr. Kunal Sinha",
+    "specialization": "Dermatologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "is_qualification_valid_in_country": true,
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Redefine Skin & Dental Clinic"
+  },
+  {
+    "id": 281758,
+    "doctor_id": 366930,
+    "practice_id": 756842,
+    "translated_new_slug": "dr-rajeev-ambastha-ear-nose-throat-ent-specialist",
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/5530ed9bd957d1aabac6d068eef6a7bad3fdf50a05cc8.jpg"
+    },
+    "doctor_name": "Dr. Rajeev Ambastha",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Malda Medical College and Hospital",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Malda Medical College and Hospital",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "Diploma in Tuberculosis and Chest Diseases (DTCD)",
+        "is_qualification_valid_in_country": true,
+        "college": "Malda Medical College and Hospital",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 10,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "ENT Planet"
+  },
+  {
+    "id": 396734,
+    "doctor_id": 459587,
+    "practice_id": 909355,
+
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/459587/dr-dr-sanjay-kumar-shahi-58e398bad1694.jpg"
+    },
+    "doctor_name": "Dr. Dr. Sanjay Kumar Shahi",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1995
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2002
+      }
+    ],
+    "experience_years": 26,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Dr. Sanjay Kumar Shahi Clinic"
+  },
+  {
+    "id": 396811,
+    "doctor_id": 459666,
+    "practice_id": 909686,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/459666/dr-md-ozair-58e396035b9e2.jpg"
+    },
+    "doctor_name": "Dr. Md.Ozair",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "A N Magadh Medical College, Gaya",
+        "completion_year": 2003
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 15,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Tripolia",
+    "clinic_name": "Alam Clinic"
+  },
+  {
+    "id": 524884,
+    "doctor_id": 555529,
+    "practice_id": 1111797,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-ratnesh-kumar-1469165822-5791b0fe5963a.jpg"
+    },
+    "doctor_name": "Dr. Ratnesh Kumar",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Byramjee Jeejeebhoy Government Medical College & Sasson General Hospital, Pune",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2012
+      }
+    ],
+    "experience_years": 15,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "R.K. ENT clinic"
+  },
+  {
+    "id": 644387,
+    "doctor_id": 679473,
+    "practice_id": 1210132,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/679473/dr-srinjeeta-garg-5ed076e6c59d3.jpg"
+    },
+    "doctor_name": "Dr. Srinjeeta Garg",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Dr. D.Y. Patil Medical College and Hospital, Navi  Mumbai.",
+        "completion_year": 2016
+      }
+    ],
+    "experience_years": 8,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "Ear, Nose, Throat and Head Neck Clinic"
+  },
+  {
+    "id": 646493,
+    "doctor_id": 682862,
+    "practice_id": 1219373,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/682862/dr-jairam-prasad-5baa191aaaa20.jpg"
+    },
+    "doctor_name": "Dr. Jairam Prasad",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1999
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "BBA University",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 25,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Anisabad",
+    "clinic_name": "Jai Hospital"
+  },
+  {
+    "id": 721060,
+    "doctor_id": 865652,
+    "practice_id": 1293970,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/865652/dr-ajit-kumar-5ee3387a27052.jpg"
+    },
+    "doctor_name": "Dr. Ajit Kumar",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1982
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1988
+      }
+    ],
+    "experience_years": 39,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "Dr. Ajit kumar"
+  },
+  {
+    "id": 727319,
+    "doctor_id": 875929,
+    "practice_id": 1299844,
+
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/875929/dr-nikhil-kumar-5f296022aa0df.jpg"
+    },
+    "doctor_name": "Dr. Nikhil Kumar",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Bharati Vidyapeeth University, Pune",
+        "completion_year": 2011
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Armed Forces Medical College (AFMC), Pune",
+        "completion_year": 2016
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Mithapur",
+    "clinic_name": "Sai Primus ENT And Physiotherapy"
+  },
+  {
+    "id": 771360,
+    "doctor_id": 936105,
+    "practice_id": 1339590,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/936105/dr-dr-rajaneesh-ranjan-60a54c77e7d1a.jpg"
+    },
+    "doctor_name": "Dr. Rajaneesh Ranjan",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1999
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 25,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Ojas ENT & Maternity Clinic"
+  },
+  {
+    "id": 857284,
+    "doctor_id": 1053006,
+    "practice_id": 1417801,
+
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1053006/dr-ashwini-64948acb2674c.jpeg"
+    },
+    "doctor_name": "Dr. Ashwini",
+    "specialization": "Ear-Nose-Throat (ENT) Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Banaras Hindu University",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "MS - ENT",
+        "is_qualification_valid_in_country": true,
+        "college": "Banaras Hindu University",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 31,
+    "city": "Patna",
+    "consultation_fees": 1500,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Ashwini ENT and Cosmetic Hospital"
+  },
+  {
+    "id": 890402,
+    "doctor_id": 424802,
+    "practice_id": 873428,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-deepak-gastroenterologist-patna-785d07c2-8b91-4515-93e1-b50ae9768989.jpg"
+    },
+    "doctor_name": "Dr. Deepak",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MDS - General Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 24,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Kankarbagh",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 891402,
+    "doctor_id": 425802,
+    "practice_id": 843428,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-pankaj-kumar-gastroenterologist-patna-ed70be6f-ad6f-40a7-a224-2a0836e80e56.jpg"
+    },
+    "doctor_name": "Dr. Pankaj Kumar",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 18,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Kankarbagh",
+    "clinic_name": ""
+  },
+  {
+    "id": 892402,
+    "doctor_id": 426802,
+    "practice_id": 844428,
+    "rank": "45",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-vijay-shanker-gastroenterologist-patna-2e014fb4-0413-4ea9-8e8b-1a0255845b6d.jpg"
+    },
+    "doctor_name": "Dr. Vijay Shanker",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 23,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Kankarbagh",
+    "clinic_name": ""
+  },
+  {
+    "id": 893402,
+    "doctor_id": 427802,
+    "practice_id": 845428,
+    "rank": "85",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-shantam-mohan-gastroenterologist-patna-66f458cc-f14f-4a53-bf15-d01896614d10.jpg"
+    },
+    "doctor_name": "Dr. Shantam Mohan",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 19,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Jawahar Lal Nehru Marg",
+    "clinic_name": "Near Mangal Market, & Atlantis Hospital"
+  },
+  {
+    "id": 894402,
+    "doctor_id": 428802,
+    "practice_id": 846428,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-uday-kumar-gastroenterologist-patna-d7031b0e-eb77-418f-b765-3eb668c0c5d5.jpg"
+    },
+    "doctor_name": "Dr. Uday Kumar",
+    "specialization": "Gastroenterologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Buddha Institute of Dental Sciences  Hospital",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Medicine",
+        "college": "Dr. R.M.L. Avadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 16,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Narayan Clinic"
+  },
+  {
+    "id": 333901,
+    "doctor_id": 410609,
+    "practice_id": 793908,
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/410609/dr-mukul-kumar-58e369f24beda.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-mukul-kumar-general-physician-patna-3affe600-7487-4b2b-b1a4-9a00f2991768.jpg",
+    "profile_url": "/patna/doctor/dr-mukul-kumar-general-physician?practice_id=793908&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Mukul Kumar",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajendra Medical College & Hospital",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1985
+      }
+    ],
+    "experience_years": 45,
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Kankarbagh",
+    "clinic_name": "Dr. Mukul Kumar Clinic"
+  },
+  {
+    "id": 387424,
+    "doctor_id": 451486,
+    "practice_id": 897642,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/451486/dr-sangita-kumari-58e38643d90fc.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-sangita-kumari-obstetrician-patna-6660e88a-6843-4480-8b39-90d84f825069.jpg",
+
+    "profile_url": "/patna/doctor/dr-sangita-kumari-gynecologist-obstetrician?practice_id=897642&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Sangita Kumari",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1990
+      },
+      {
+        "qualification": "DGO",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1998
+      }
+    ],
+    "experience_years": 26,
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Mahendru",
+    "clinic_name": "Dr.Sangita Kumari Clinic"
+  },
+  {
+    "id": 398463,
+    "doctor_id": 461199,
+    "practice_id": 913572,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/461199/dr-panchanand-prasad-58e3964fa45fb.jpg"
+    },
+    "care_one_image": "",
+    "image_url": "https://imagesx.practo.com/providers/dr-panchanand-prasad-general-physician-patna-b93683a9-27a4-4614-bcf6-b4381d37b77e.jpg",
+    "profile_url": "/patna/doctor/dr-panchanand-prasad-general-physician?practice_id=913572&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Panchanand Prasad",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1971
+      }
+    ],
+    "experience_years": 52,
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Sandalpur",
+    "clinic_name": "Dr.P.Prasad Clinic"
+  },
+  {
+    "id": 401914,
+    "doctor_id": 464179,
+    "practice_id": 918209,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-rajendra-kumar-1471332371-57b2c0131b8e9.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-rajendra-kumar-orthopedic-surgeon-patna-5b72942b-a631-4157-8217-8cbc8d8bedaf.jpg",
+
+    "profile_url": "/patna/doctor/dr-rajendra-kumar-1-orthopedist?practice_id=918209&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Rajendra Kumar",
+    "specialization": "General Physician",
+
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1969
+      }
+    ],
+    "experience_years": 52,
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Kumar Fracture & Orthopaedic Centre"
+  },
+  {
+    "id": 401991,
+    "doctor_id": 464344,
+    "practice_id": 918601,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/464344/dr-nand-kishore-vidyarthi-58e398b680517.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-nand-kishore-vidyarthi-general-surgeon-patna-c9c8274d-ac85-41f0-8956-a1e4c544c28e.jpg",
+    "profile_url": "/patna/doctor/dr-nand-kishore-vidyarthi-general-surgeon?practice_id=918601&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Nand Kishore Vidyarthi",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1972
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 1977
+      }
+    ],
+    "experience_years": 49,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Care Poly Clinic & Surgical Center"
+  },
+  {
+    "id": 402340,
+    "doctor_id": 464640,
+    "practice_id": 918873,
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/464640/dr-tara-chand-lakhmani-58e398b4036b2.jpg"
+    },
+    "care_one_image": "",
+    "image_url": "https://imagesx.practo.com/providers/dr-tara-chand-lakhmani-general-physician-patna-9cf79208-4ac1-43e0-80b0-86145ff054c9.jpg",
+    "profile_url": "/patna/doctor/dr-tara-chand-lakhmani-general-physician?practice_id=918873&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Tara Chand Lakhmani",
+    "specialization": "General Physician",
+    "experience_years": 49,
+    "clinic_name": "Lakhmani Pain Clinic",
+    "locality": "Boring Canal Road",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "subharti medical college, meerut",
+        "completion_year": 1975
+      },
+      {
+        "qualification": "Diploma in Health Administration",
+        "college": "Apollo Hospitals",
+        "completion_year": 2015
+      }
+    ]
+  },
+  {
+    "id": 403236,
+    "doctor_id": 465362,
+    "city": "Patna",
+    "practice_id": 920674,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/465362/dr-d-n-singh-58e398b2f08f3.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-d-n-singh-general-physician-patna-c159ea12-da42-4ede-97c4-e152f178606a.jpg",
+    "profile_url": "/patna/doctor/dr-d-n-singh-general-physician?practice_id=920674&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. D N singh",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "MGM Institute of Health Science, Bombay",
+        "completion_year": 1978
+      },
+      {
+        "qualification": "Diploma in Tuberculosis and Chest Diseases (DTCD)",
+        "is_qualification_valid_in_country": true,
+        "college": "MGM Institute of Health Science, Bombay",
+        "completion_year": 1980
+      }
+    ],
+    "experience_years": 44,
+    "consultation_fees": 200,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Dr. D N singh Clinic"
+  },
+  {
+    "id": 441367,
+    "doctor_id": 497610,
+    "practice_id": 1011807,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-kunal-kundan-1451133900-567e8bcc2b1ae.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-kunal-kundan-diabetologist-patna-9e7d59d8-2013-4e50-9a97-9aba7cb990ce.jpg",
+    "profile_url": "/patna/doctor/kunal-kundan-diabetologist?practice_id=1011807&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Kunal Kundan",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Kathmandu Medical College",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 15,
+    "consultation_fees": 400,
+    "locality": "Kadamkuan",
+    "city": "Patna",
+    "clinic_name": "Janki Diabetes Care Center (Dr. Kunal Kundan)"
+  },
+  {
+    "id": 614698,
+    "doctor_id": 635271,
+    "practice_id": 1172534,
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/635271/dr-sanjay-kumar-5e32b765e25c1.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-sanjay-kumar-tuberculous-and-chest-diseases-specialist-patna-4b423fcd-5978-4b18-9712-42667420d714.jpg",
+    "profile_url": "/patna/doctor/dr-sanjay-kumar-12-general-physician-1?practice_id=1172534&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Sanjay Kumar",
+    "city": "Patna",
+    "specialization": "General Physician",
+    "qualifications": [
+      {
+        "qualification": "MD - Pharmacology",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2016
+      },
+      {
+        "qualification": "Diploma in Tuberculosis and Chest Diseases (DTCD)",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Tilka Manjhi Bhagalpur University",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 14,
+    "consultation_fees": 600,
+    "locality": "Kumhrar",
+    "clinic_name": "Life Line Health Care",
+    "summary": "Dedicated towards patients well being."
+  },
+  {
+    "id": 758893,
+    "doctor_id": 915037,
+    "practice_id": 1327774,
+    "city": "Patna",
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/915037/dr-mohammad-taqui-imam-606f113faaa67.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-mohammad-taqui-imam-general-physician-patna-4b242853-a64b-4942-86ed-d5d2e0f0fef1.jpg",
+    "profile_url": "/patna/doctor/mohammad-taqui-imam-pediatrician-1?practice_id=1327774&specialization=General Physician&referrer=doctor_listing&page_uid=d5b57eb6-b26d-4ff7-9569-e179e7c62640",
+    "doctor_name": "Dr. Mohammad Taqui Imam",
+    "specialization": "General Physician",
+    "clinic_name": "Dr. Imam’s Mother and Child Care Clinic",
+    "locality": "Anisabad",
+    "consultation_fees": 500,
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2015
+      }
+    ],
+    "experience_years": 9,
+    "summary": " Dr. Mohammad Taqui Imam had done M.D. Pediatrics in 2019. After completing my  post graduation i joined Kurji Holy Family Hospital ,patna after doing job for approximate 1 year, i joined as a consultant in M. S. M. Hospital,Phulwarisharif. I have my own clinic in the name of Dr. Imam\"s Mother and child care clinic in Anisabad at Balammichak more,patna."
+  },
+  {
+    "id": 541806,
+    "doctor_id": 565846,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Subhash Chandra Jha",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1987
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 37,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kidwaipuri",
+    "clinic_name": "Chest Clinic",
+    "summary": "Dr. Subhash Chandra Jha is a Pulmonologist and Respiratory Medicine Specialist and General Surgeon in Phulwarisharif, Patna and has an experience of 20 years in these fields. Dr. Subhash Chandra Jha practices at Chest Clinic in Phulwarisharif, Patna. He completed MBBS from Patna Medical College, Patna in 1987 and MS - General Surgery from Patna Medical College, Patna in 1993."
+  },
+  {
+    "id": 576125,
+    "doctor_id": 590273,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/590273/dr-purushottam-kumar-5cb0c7fdc4ac2.jpg"
+    },
+    "doctor_name": "Dr. Purushottam Kumar",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Bankura Sammilani Medical College & Hospital",
+        "completion_year": 2015
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Jawaharlal Nehru Medical College, Bhagalpur",
+        "completion_year": 2010
+      }
+    ],
+    "experience_years": 13,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Ramkrishan Nagar",
+    "clinic_name": "Save life Hospital"
+  },
+  {
+    "id": 599472,
+    "doctor_id": 618527,
+    "practice_id": 1158706,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/618527/dr-sujeet-kumar-bharti-59c129064be46.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-sujeet-kumar-bharti-general-surgeon-patna-679a7c59-4395-426e-a69b-327b5bbb2185.jpg",
+    "profile_url": "/patna/doctor/sujeet-kumar-bharti-general-surgeon?practice_id=1158706&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Sujeet Kumar Bharti",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Fatwa",
+    "clinic_name": "Max CareNCure Hospital"
+  },
+  {
+    "id": 639345,
+    "doctor_id": 670636,
+    "practice_id": 1195742,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/670636/dr-masleh-uddin-5b35c93918e15.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-masleh-uddin-general-surgeon-patna-54552326-ebfc-4d34-ade4-fe2ba3a14e3e.jpg",
+    "profile_url": "/patna/doctor/dr-masleh-uddin-general-surgery?practice_id=1195742&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Masleh Uddin",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Magadh University",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 9,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Phulwarisharif",
+    "clinic_name": "Dr. M M Uddin"
+  },
+  {
+    "id": 669549,
+    "doctor_id": 721818,
+    "practice_id": 1170315,
+
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/721818/dr-mithilesh-kumar-5d7ca90a97d45.jpg"
+    },
+
+    "image_url": "https://imagesx.practo.com/providers/dr-mithilesh-kumar-general-surgeon-patna-1fcbdb12-3eba-4c35-b677-1db114956fe9.jpg",
+
+    "profile_url": "/patna/doctor/mithilesh-kumar-general-surgeon?practice_id=1170315&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Mithilesh Kumar",
+    "specialization": "General Surgeon",
+
+    "qualifications": [
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1982
+      }
+    ],
+    "experience_years": 35,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Beur",
+    "clinic_name": "Kamy General Hospital"
+  },
+  {
+    "id": 725894,
+    "doctor_id": 873725,
+    "practice_id": 1298276,
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/873725/dr-md-umar-abdullah-609cd6b0f3b4d.jpg"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-md-umar-abdullah-general-surgeon-patna-8eedf9f2-babc-47a8-95cf-40c62bd178aa.jpg",
+
+    "profile_url": "/patna/doctor/md-umar-abdullah-general-surgeon?practice_id=1298276&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Md Umar Abdullah",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Bhupendra Narayan Mandal University",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Siksha O Anusandhan University",
+        "completion_year": 2020
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Shareef Colony",
+    "clinic_name": "Healer Health Care"
+  },
+  {
+    "id": 743127,
+    "doctor_id": 897276,
+    "practice_id": 1314627,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/771804/dr-neeti-neha-5d88d79295012.png"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-neeti-neha-general-surgeon-patna-21e23d20-0329-4c27-9a03-f23a353dbd91.jpg",
+
+    "profile_url": "/patna/doctor/neeti-neha-general-surgeon-1?practice_id=1314627&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Neeti Neha",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+        "completion_year": 2009
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Aryabhatta Knowledge University, Patna",
+        "completion_year": 2015
+      }
+    ],
+    "experience_years": 9,
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Kankarbagh",
+    "clinic_name": "Hanuman Care",
+    "summary": "Dr. Neeti Neha is a General Surgeon, Laparoscopic Surgeon, Proctologist and Laser Circumcision Specialist in Rajbansi Nagar, Patna and has an experience of 8 years in these fields. She completed MBBS from Babasaheb Bhimrao Ambedkar Bihar University in 2011 and MS - General Surgery from Aryabhatta Knowledge University, Patna in 2015."
+  },
+  {
+    "id": 786964,
+    "doctor_id": 957600,
+    "practice_id": 1354578,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/957600/dr-manazir-hasnain-6130af942067c.png"
+    },
+    "image_url": "https://imagesx.practo.com/providers/dr-manazir-hasnain-general-surgeon-patna-8b9a0444-b24d-408f-b0ca-f0363b50863d.jpg",
+    "profile_url": "/patna/doctor/manazir-hasnain-general-surgeon?practice_id=1354578&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Manazir Hasnain",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1984
+      }
+    ],
+    "experience_years": 45,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Kusum Hospital"
+  },
+  {
+    "id": 816147,
+    "doctor_id": 991517,
+    "practice_id": 1380447,
+    "rank": "18",
+    "profile_photo": {
+      "url": null
+    },
+    "image_url": null,
+    "profile_url": "/patna/doctor/dr-ashok-kumar-malviya-urologist?practice_id=1380447&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Ashok Kumar Malviya",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - Anaesthesiology",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1985
+      },
+      {
+        "qualification": "Diploma in Anesthesiology",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 1988
+      }
+    ],
+    "experience_years": 34,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Health Care Center"
+  },
+  {
+    "id": 840479,
+    "doctor_id": 1028448,
+    "practice_id": 1404119,
+    "rank": "16",
+    "profile_photo": {
+      "url": null
+    },
+    "image_url": null,
+    "profile_url": "/patna/doctor/sarv-chikitsa-hospital-general-surgeon?practice_id=1404119&specialization=General surgeon&referrer=doctor_listing&page_uid=51e3fe8d-92c5-490b-b4cf-582d059f520a",
+    "doctor_name": "Dr. Alakh",
+    "specialization": "General Surgeon",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2000
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Vijay Nagar",
+    "clinic_name": "Sarv Chikitsa "
+  },
+  {
+    "id": 754105,
+    "doctor_id": 911288,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/911288/ms-rina-rani-603cf07aa5dd5.jpeg"
+    },
+    "doctor_name": "Dr. Rina Rani",
+    "specialization": "Gynecologist/Obstetrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Lalit Narayan Mithila University",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "DNB - Obstetrics & Gynecology",
+        "college": "National Board of Examination, India",
+        "completion_year": 2012
+      },
+      {
+        "qualification": "Fellowship in Reproductive Medicine",
+        "college": "Indira IVF Patna",
+        "completion_year": 2017
+      }
+    ],
+    "experience_years": 23,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Patna",
+    "clinic_name": "Indira IVF - Fertility and IVF Center"
+  },
+  {
+    "id": 930910,
+    "doctor_id": 1146562,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1146562/dr-bindu-sinha-666a9859803ae.png"
+    },
+    "doctor_name": "Dr. Bindu Sinha",
+    "specialization": "Gynecologist/Obstetrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "University of Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - Obstetrics & Gynaecology",
+        "college": "Lalith Narayan Mittila Vishwavidyalay",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "DNB - Obstetrics & Gynecology",
+        "college": "National Board Of Examinatiion",
+        "completion_year": 1999
+      }
+    ],
+    "experience_years": 42,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 394198,
+    "doctor_id": 457371,
+    "practice_id": 906034,
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/457371/dr-roshan-sharma-58e398db9c123.JPG"
+    },
+    "doctor_name": "Dr. Roshan Sharma",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Krishna Homoeopathic Clinic"
+  },
+  {
+    "id": 538234,
+    "doctor_id": 563804,
+    "practice_id": 1119204,
+    "rank": "15",
+    "doctor_name": "Dr Gopi Raman Agarwal",
+    "specialization": "Homoeopath",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/563804/dr-gopi-raman-agrawal-660d10f954fe9.jpg"
+    },
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 1987
+      }
+    ],
+    "experience_years": 37,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Lohia Nagar",
+    "clinic_name": "Dr. G. R. Agrawal"
+  },
+  {
+    "id": 554067,
+    "doctor_id": 574033,
+    "practice_id": 1130799,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-rajeev-kumar-1476274041-57fe277987aec.jpg"
+    },
+    "doctor_name": "Dr. Rajeev Kumar",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+        "completion_year": 1984
+      },
+      {
+        "qualification": "DM - Oncology",
+        "is_qualification_valid_in_country": true,
+        "college": "Dr B. P. Singh Inst. of HYDT  Research & Clinic",
+        "completion_year": 2006
+      }
+    ],
+    "experience_years": 34,
+    "city": "Patna",
+    "consultation_fees": 1500,
+    "locality": "Ashiananagar",
+    "clinic_name": "Homeo Foundation"
+  },
+  {
+    "id": 618471,
+    "doctor_id": 639433,
+    "practice_id": 1176608,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/639433/dr-satendra-kumar-5b48e886e7ca7.jpg"
+    },
+    "doctor_name": "Dr. Satendra Kumar",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Bhikhana Pahari",
+    "clinic_name": "R.C. Homoeo Clinic"
+  },
+  {
+    "id": 622525,
+    "doctor_id": 644181,
+    "practice_id": 1180381,
+    "translated_new_slug": "tarkeshwar-singh-pharmacist",
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/644181/dr-tarkeshwar-singh-5a9a38732ea64.jpg"
+    },
+    "doctor_name": "Dr. Tarkeshwar Singh",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Homeopathic Medical College & Hospital",
+        "completion_year": 1982
+      }
+    ],
+    "experience_years": 34,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Mahendru",
+    "clinic_name": "Vishwaraj Aarogya Homeo Niketan"
+  },
+  {
+    "id": 695283,
+    "doctor_id": 774832,
+    "practice_id": 1268609,
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/774832/dr-anurag-kumar-5d9cbd2e0558b.jpg"
+    },
+    "doctor_name": "Dr. Anurag Kumar",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 2018
+      }
+    ],
+    "experience_years": 6,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Multicare Homeo Clinic"
+  },
+  {
+    "id": 706105,
+    "doctor_id": 797668,
+    "practice_id": 1276853,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/797668/dr-vijay-kumar-pandey-62c0436b6efe7.jpg"
+    },
+    "doctor_name": "Dr. Vijay Kumar Pandey",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "MD - Homeopathy",
+        "is_qualification_valid_in_country": true,
+        "college": "G.D. Memorial Homoeopathic Medical College & Hospital",
+        "completion_year": 2016
+      },
+      {
+        "qualification": "PG Diploma in Clinical Nutrition & Dietetics",
+        "is_qualification_valid_in_country": true,
+        "college": "UPRTOU",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Dr.Rambalak Singh Gaya Homeopathic Medical College & Hospital, Bodh Gaya",
+        "completion_year": 2010
+      }
+    ],
+    "experience_years": 13,
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Digha",
+    "clinic_name": "Niramaya Homoeopathic & Diet Clinic"
+  },
+  {
+    "id": 735036,
+    "doctor_id": 887435,
+    "practice_id": 1307472,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/887435/dr-om-prakash-srivastawa-6240a6aa0e10b.jpg"
+    },
+    "doctor_name": "Dr. Om Prakash Shrivastawa",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "Bihar University",
+        "completion_year": 1983
+      }
+    ],
+    "consultation_fees": 200,
+    "locality": "Gardanibagh",
+    "clinic_name": "Prakash Homeo Clinic"
+  },
+  {
+    "id": 738786,
+    "doctor_id": 891395,
+    "practice_id": 1310266,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/891395/dr-mahesh-prasad-sinha-6069cdba04149.jpg"
+    },
+    "doctor_name": "Dr. Mahesh Prasad Sinha",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "R.B.T.S. Govt. Homoeopathic Medical College, Muzaffarpur",
+        "completion_year": 1979
+      }
+    ],
+    "experience_years": 45,
+    "city": "Patna",
+    "consultation_fees": 2000,
+    "locality": "Kankarbagh",
+    "clinic_name": "Sinha Homeo Research Centre and Drug Transmission Clinic"
+  },
+  {
+    "id": 843802,
+    "doctor_id": 1032819,
+    "practice_id": 1406477,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1032819/dr-sarita-kumari-637774abe7972.jpg"
+    },
+    "doctor_name": "Dr. Sarita Kumari",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+        "completion_year": 2001
+      }
+    ],
+    "experience_years": 21,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Barh",
+    "clinic_name": "Aanand Homoeo Clinic"
+  },
+  {
+    "id": 512077,
+    "doctor_id": 5786544,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-anup-kumar-pediatrician-patna-390b1e9e-bee1-499b-be2f-396f41f60b7a.jpg"
+    },
+    "doctor_name": "Dr Anup Kumar",
+    "specialization": "Neonatologist",
+    "qualifications": [
+      {
+        "qualification": "Fellowship in Neonatology",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      },
+      {
+        "qualification": "DNB - Paediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 22,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankarbagh",
+    "clinic_name": "Patna Children Hospital And Newborn Care Centre"
+  },
+  {
+    "id": 149092,
+    "doctor_id": 202847,
+    "practice_id": 212016,
+    "rank": "1",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-khushboo-rani-nephrology-patna-4870c9df-a4fb-4b47-bf04-f40a6e2b3276.jpg"
+    },
+    "doctor_name": "Dr. Khushboo Rani",
+    "specialization": "Nephrologist/Renal Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Nephrology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 12,
+    "city": "Patna",
+    "consultation_fees": 800,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 149192,
+    "doctor_id": 200847,
+    "practice_id": 212116,
+    "rank": "2",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-vijay-shankar-nephrologist-renal-specialist-patna-95c94012-abd4-4b17-aa85-4bdd24bc044c.jpg"
+    },
+    "doctor_name": "Dr. Vijay Shankar",
+    "specialization": "Nephrologist/Renal Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Nephrology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 13,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Wellness Kidney Clinic"
+  },
+  {
+    "id": 149193,
+    "doctor_id": 205847,
+    "practice_id": 212316,
+    "rank": "3",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-vinod-kumar-singh-nephrologist-renal-specialist-patna-e4b9cb42-9953-4ca1-8e6c-df03c56c06ef.jpg"
+    },
+    "doctor_name": "Dr. Vinod Kumar Singh",
+    "specialization": "Nephrologist/Renal Specialist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "college": "Rajiv Gandhi University of Health Sciences",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "MD - Dermatology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "DM - Nephrology",
+        "college": "Jagadguru Jayadeva Murugarajendra Medical College (JJMMC)",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 35,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Patna University",
+    "clinic_name": "Baidyanath Kidney Hospital"
+  },
+  {
+    "id": 727961,
+    "doctor_id": 789396,
+    "practice_id": 1300441,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-anil-kumar-jha-neurologist-patna-3c4536e7-7428-4d41-b1e7-bff453f8b863.jpg"
+    },
+    "doctor_name": "Dr. Anil Kumar Jha",
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      },
+      {
+        "qualification": "DNB - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 30,
+
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 207961,
+    "doctor_id": 785396,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sudhir-kumar-jha-neurologist-patna-874a9905-c2ea-4805-8491-8d1e9479b220.jpg"
+    },
+    "doctor_name": "Dr. Sudhir Kumar Jha",
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      },
+      {
+        "qualification": "DM - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 46,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Sri Krishnapuri",
+    "clinic_name": "Neurology Clinic"
+  },
+  {
+    "id": 200961,
+    "doctor_id": 705396,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-nitish-kumar-neurologist-patna-c7aaf1d5-1b18-4724-b20a-5ec9652457c0.jpg"
+    },
+    "doctor_name": "Dr. Nitish kumar",
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "DM - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 17,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "Neuro Centre"
+  },
+  {
+    "id": 207961,
+    "doctor_id": 785396,
+    "doctor_name": "Dr. Abhishek Kumar",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-abhishek-kumar-neurologist-patna-c44cf580-587e-49ba-8318-2383b9aa944a.jpg"
+    },
+    "specialization": "Neurologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - General Medicine",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      },
+      {
+        "qualification": "DM - Neurology",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 16,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Ashiananagar",
+    "clinic_name": "Shyam Neuro Centre"
+  },
+  {
+    "id": 377453,
+    "doctor_id": 444674,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444674/dr-anurag-verma-58e380b3e341c.jpg"
+    },
+    "profile_url": "/patna/doctor/dr-anurag-verma-1-ophthalmologist?practice_id=883165&specialization=Ophthalmologist&referrer=doctor_listing&page_uid=4636298d-a784-47b5-8e8a-cde34ab5efa5",
+    "doctor_name": "Dr. Anurag Verma",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1999
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 2005
+      }
+    ],
+    "experience_years": 19,
+    "city": "Patna",
+    "consultation_fees": 250,
+    "locality": "Ashiananagar",
+    "clinic_name": "Divyajyoti Eye Clinic"
+  },
+  {
+    "id": 403910,
+    "doctor_id": 465945,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/465945/dr-sachin-kumar-58e39709a903e.jpg"
+    },
+    "doctor_name": "Dr. Sachin Kumar",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "A N Magadh Medical College, Gaya",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 13,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Patna",
+    "clinic_name": "Lahan Netralay"
+  },
+  {
+    "id": 579613,
+    "doctor_id": 593454,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Prakash Kumar",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "DOMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 15,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Bihta",
+    "clinic_name": "Divya jyoti netralaya"
+  },
+  {
+    "id": 620978,
+    "doctor_id": 642296,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Ajeet Kumar Dwivedi",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Magadh University",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "U.LN Mithila",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Kankarbagh",
+    "clinic_name": "Sharda Eye and Dental Hospital"
+  },
+  {
+    "id": 646490,
+    "doctor_id": 682859,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. R. K. Satyapal",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Institute of Medical Sciences, Banaras Hindu University (IMS-BHU)",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Gulzarbagh",
+    "clinic_name": "Swastik Eye Care Centre"
+  },
+  {
+    "id": 649029,
+    "doctor_id": 687919,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Kumar Vivek",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "NRS Medical College and Hospital",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "MD - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "AIIMS, New Delhi",
+        "completion_year": 2012
+      }
+    ],
+    "experience_years": 12,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Rukunpura",
+    "clinic_name": "Sarvdrishti Eye Hospital"
+  },
+  {
+    "id": 677874,
+    "doctor_id": 739852,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Himanshu Kumar",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "DNB - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Govt. Rajaji Hospital, Madurai",
+        "completion_year": 2006
+      }
+    ],
+    "experience_years": 18,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "BSL Eye Care"
+  },
+  {
+    "id": 743315,
+    "doctor_id": 897540,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/897540/dr-rajesh-agarwal-60016d1e644ac.jpg"
+    },
+    "doctor_name": "Dr. Rajesh Agarwal",
+    "specialization": "Ophthalmologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "R.G. Kar College, Kolkata",
+        "completion_year": 2010
+      },
+      {
+        "qualification": "DNB - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "National Board of Examination, India",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MS - Ophthalmology",
+        "is_qualification_valid_in_country": true,
+        "college": "Medical College, Calcutta",
+        "completion_year": 2014
+      },
+      {
+        "qualification": "MRCS (UK)",
+        "is_qualification_valid_in_country": true,
+        "college": "The Royal College of Surgeons, UK",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 14,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Buddha Eye Care and Laser Center"
+  },
+  {
+    "id": 32469,
+    "doctor_id": 419633,
+    "practice_id": 793091,
+    "rank": "26",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-shamsul-hoda-spine-surgeon-ortho-patna-736e4ae4-f4f1-4854-a0ff-4ff897c2bfe5.jpg"
+    },
+    "doctor_name": "Dr. Shamsul Hoda",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "Diploma in Orthopaedics"
+      }
+    ],
+    "experience_years": 23,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Lohia Nagar",
+    "clinic_name": "Ortho World"
+  },
+  {
+    "id": 32369,
+    "doctor_id": 429633,
+    "practice_id": 793091,
+    "rank": "22",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sujit-kumar-orthopedic-surgeon-patna-955387fa-8276-4949-aa98-d1a772156cba.jpg"
+    },
+    "doctor_name": "Dr. Sujit Kumar",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "Diploma in Orthopaedics"
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      }
+    ],
+    "experience_years": 11,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Beur",
+    "clinic_name": "Medstar Hospital"
+  },
+  {
+    "id": 33369,
+    "doctor_id": 439633,
+    "practice_id": 793091,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-ravi-kumar-spine-surgeon-ortho-patna-b8afef0b-83ef-4678-913a-194a9e54bf76.jpg"
+    },
+    "doctor_name": "Dr. Ravi Kumar",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      }
+    ],
+    "experience_years": 15,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Anisabad",
+    "clinic_name": "O2O Clinic"
+  },
+  {
+    "id": 34369,
+    "doctor_id": 449633,
+    "practice_id": 793091,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-pankaj-kumar-orthopedic-surgeon-patna-d1d56da5-4385-4150-a582-0855b26c65a0.jpg"
+    },
+    "doctor_name": "Dr. Pankaj Kumar",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      }
+    ],
+    "experience_years": 26,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Sheikhpura",
+    "clinic_name": "Progressive Spine And Orthopaedics"
+  },
+  {
+    "id": 35369,
+    "doctor_id": 469633,
+    "practice_id": 793091,
+    "rank": "29",
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-abhishek-kumar-das-orthopedic-surgeon-patna-356a1551-b9a8-4c74-8783-ca0f6adab375.jpg"
+    },
+    "doctor_name": "Dr. Abhishek Kumar Das",
+    "specialization": "Orthopedist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MS - Orthopaedics"
+      },
+      {
+        "qualification": "DNB - Orthopedics/Orthopedic Surgery"
+      }
+    ],
+    "experience_years": 20,
+    "city": "Patna",
+    "consultation_fees": 750,
+    "locality": "Patna",
+    "clinic_name": "Big Apollo Spectra Multi Speciality Hospital"
+  },
+  {
+    "id": 292871,
+    "doctor_id": 378600,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-varun-kumar-1490499673-58d73859b5b91.jpg"
+    },
+    "doctor_name": "Dr Varun Kumar",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "R G Kar Medical College and Hospital",
+        "completion_year": 2005
+      },
+      {
+        "qualification": "Diploma in Child Health (DCH)",
+        "is_qualification_valid_in_country": true,
+        "college": "Institute Of Child Health, Kolkata",
+        "completion_year": 2012
+      }
+    ],
+    "experience_years": 14,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "Shishu Mangal Clinic"
+  },
+  {
+    "id": 402938,
+    "doctor_id": 465132,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/465132/dr-k-k-singh-58e396d4a09fe.jpg"
+    },
+    "doctor_name": "Dr. K.K.Singh",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2006
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2010
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Patna",
+    "clinic_name": "Dr K.k.Singh Clinic"
+  },
+  {
+    "id": 444122,
+    "doctor_id": 499858,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/499858/dr-mohan-kejriwal-5e255117bb6b3.jpg"
+    },
+    "doctor_name": "Dr. Mohan Kejriwal",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Ranchi University",
+        "completion_year": 1987
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Ranchi University",
+        "completion_year": 1993
+      }
+    ],
+    "experience_years": 34,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Chiraiyatand",
+    "clinic_name": "Kid Care Clinic"
+  },
+  {
+    "id": 462439,
+    "doctor_id": 511647,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-rakesh-kumar-1455189813-56bc6f356f12d.jpe"
+    },
+    "doctor_name": "Dr. Rakesh Kumar",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Thanjavur Medical College",
+        "completion_year": 2002
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 19,
+
+    "city": "Patna",
+
+    "consultation_fees": 300,
+    "locality": "Anisabad",
+    "clinic_name": "Sunrise Newborn And Child Care"
+  },
+  {
+    "id": 464279,
+    "doctor_id": 512957,
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Shailendra Kumar",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1979
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1986
+      },
+      {
+        "qualification": "Diploma in Child Health (DCH)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1981
+      }
+    ],
+    "experience_years": 44,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Shailendra Kumar Clinic"
+  },
+  {
+    "id": 602969,
+    "doctor_id": 622078,
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/622078/dr-samit-59db6ecd9601a.jpg"
+    },
+    "doctor_name": "Dr. Samit",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 16,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Kankarbagh",
+    "clinic_name": "Vani Healthcare"
+  },
+  {
+    "id": 649020,
+    "doctor_id": 688037,
+    "practice_id": 1221171,
+
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/688037/dr-vivek-ranjan-5b8f7a5a5c602.jpeg"
+    },
+    "doctor_name": "Dr. Vivek Ranjan",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "DNB - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "St. Stephen's Hospital Delhi",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "Diploma in Child Health (DCH)",
+        "is_qualification_valid_in_country": true,
+        "college": "Aryabhatta Knowledge University, Patna",
+        "completion_year": 2015
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "T.M Baghalpur",
+        "completion_year": 2009
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Bihta",
+    "clinic_name": "New Born And Child Care With Vaccination Center"
+  },
+  {
+    "id": 676049,
+    "doctor_id": 736508,
+    "practice_id": 1249989,
+
+    "rank": "12",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Shrawan Kumar",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1981
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna University",
+        "completion_year": 1988
+      }
+    ],
+    "experience_years": 36,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Rajendra Nagar",
+    "clinic_name": "New Born Care Centre"
+  },
+  {
+    "id": 708496,
+    "doctor_id": 800333,
+    "practice_id": 1279028,
+
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/800333/dr-suprabhat-ranjan-5e72466bef5a3.jpg"
+    },
+    "doctor_name": "Dr. Suprabhat Ranjan",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Darbhanga Medical College And Hospital, Bihar",
+        "completion_year": 2007
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2014
+      }
+    ],
+    "experience_years": 14,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Patliputra",
+    "clinic_name": "Aadya Childcare Centre"
+  },
+  {
+    "id": 727961,
+    "doctor_id": 789396,
+    "practice_id": 1300441,
+    "rank": "14",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Dr. Harit Prasad",
+    "specialization": "Pediatrician",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Kempegowda Institute of Medical Sciences (KIMS), Bangalore",
+        "completion_year": 2013
+      },
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "B.P. Koirala Institute of Health Sciences",
+        "completion_year": 2019
+      }
+    ],
+    "experience_years": 8,
+
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Patliputra",
+    "clinic_name": "Omya child care"
+  },
+  {
+    "id": 332469,
+    "doctor_id": 409633,
+    "practice_id": 793091,
+    "rank": "26",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/409633/mr-amrendra-kumar-58e369d6e6dde.jpg"
+    },
+    "doctor_name": "Mr. Amrendra Kumar   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      }
+    ],
+    "experience_years": 23,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Kankad Bagh",
+    "clinic_name": "Anumeha Physio Care Centre"
+  },
+  {
+    "id": 377344,
+    "doctor_id": 444597,
+    "practice_id": 882927,
+
+    "rank": "28",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444597/dr-s-khan-pt-58e380b093e1d.jpg"
+    },
+    "doctor_name": "Mr. S Khan   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "AAIDUDEC",
+        "completion_year": 2007
+      }
+    ],
+    "experience_years": 17,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Ashiananagar",
+    "clinic_name": "Needs Physiotherapy Centre"
+  },
+  {
+    "id": 377449,
+    "doctor_id": 444668,
+    "practice_id": 883163,
+
+    "rank": "21",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/444668/dr-shailendra-kumar-58e380be58d58.jpg"
+    },
+    "doctor_name": "Mr. Shailendra  Kumar   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Bihar College Of Physiotherapy & Occupational Therapy, Patna",
+        "completion_year": 1984
+      }
+    ],
+    "experience_years": 29,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "P.M.C.H",
+    "clinic_name": "Patliputra physiotherapy"
+  },
+  {
+    "id": 387690,
+    "doctor_id": 451546,
+    "practice_id": 897931,
+
+    "rank": "22",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/451546/dr-pintu-kumar-yadav-58e38883ed4c3.JPG"
+    },
+    "doctor_name": "Mr. Pintu Kumar Yadav   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "J M Institute of Speech and Hearing, Muzzafarpur",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 150,
+    "locality": "Rukunpura",
+    "clinic_name": "Care and Cure Physiotherapy Center"
+  },
+  {
+    "id": 397381,
+    "doctor_id": 460166,
+    "practice_id": 911634,
+
+    "rank": "23",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/460166/dr-manish-kumar-58e398c66d878.jpg"
+    },
+    "doctor_name": "Mr. Manish Kumar   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of Magadh",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Shree Balaji Physithrapy Clinic"
+  },
+  {
+    "id": 624386,
+    "doctor_id": 646283,
+    "practice_id": 1181914,
+
+    "rank": "29",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Ms. Tripti   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Acharya Institute of Health Sciences",
+        "completion_year": 2008
+      }
+    ],
+    "experience_years": 16,
+
+    "city": "Patna",
+    "consultation_fees": 250,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Pain Cure Physiotherapy Clinic & Rehabilitation Centre"
+  },
+  {
+    "id": 627471,
+    "doctor_id": 648756,
+    "practice_id": 1183874,
+    "rank": "25",
+    "profile_photo": {
+      "url": null
+    },
+    "doctor_name": "Ms. Sima Kumari   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "NIOH",
+        "completion_year": 2016
+      }
+    ],
+    "experience_years": 7,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Pahari",
+    "clinic_name": "Advance Physiotherapy & Rehab Centre"
+  },
+  {
+    "id": 849128,
+    "doctor_id": 1040094,
+    "practice_id": 1282334,
+
+    "rank": "27",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1040094/dr-namita-singh-63b9c7d1d0cd4.jpg"
+    },
+    "doctor_name": "Dr. Namita Singh   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Magadh Univerisity",
+        "completion_year": 2022
+      }
+    ],
+    "experience_years": 2,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Khagaul",
+    "clinic_name": "Samay Hospital"
+  },
+  {
+    "id": 853017,
+    "doctor_id": 1046151,
+    "practice_id": 1414989,
+    "rank": "24",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1046151/dr-akanchha-gupta-pt-64101104550ba.jpeg"
+    },
+    "doctor_name": "Dr. Akanchha Gupta   (Physiotherapist)",
+    "specialization": "Physiotherapist",
+    "qualifications": [
+      {
+        "qualification": "MPTh/MPT - Musculoskeletal Disorders and Sports Physiotherapy",
+        "is_qualification_valid_in_country": true,
+        "college": "ISIC Institute of Rehabilitation Sciences ,Vasant Kunj .New Delhi",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "BPTh/BPT",
+        "is_qualification_valid_in_country": true,
+        "college": "Devi Ahilya Vishwa Vidhyalaya, Indore, M.P.",
+        "completion_year": 2015
+      }
+    ],
+    "experience_years": 8,
+
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Gardanibagh",
+    "clinic_name": "CasaMed"
+  },
+  {
+    "id": 561077,
+    "doctor_id": 578654,
+    "practice_id": 1134256,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-satish-kr-sinha-1480607116-5840458ca885c.jpg"
+    },
+    "doctor_name": "Dr. Satish Kr Sinha",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "DVD",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 33,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Khazpura",
+    "clinic_name": "Mind and skin clinic"
+  },
+  {
+    "id": 604902,
+    "doctor_id": 624267,
+    "practice_id": 1161960,
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/624267/dr-rakesh-kumar-65d48aff91f95.jpg"
+    },
+    "doctor_name": "Dr. Rakesh Kumar",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of calicut",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "DNB - Psychiatry",
+        "is_qualification_valid_in_country": true,
+        "college": "National Borad of Examinations Ministry of Health Government of India",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 20,
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Sheikhpura",
+    "clinic_name": "Manas Clinic"
+  },
+  {
+    "id": 631916,
+    "doctor_id": 657662,
+    "practice_id": 1189874,
+    "rank": "15",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/657662/mr-alok-ranjan-5ae498938ec10.jpg"
+    },
+    "doctor_name": "Dr. Alok Ranjan",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "The Tamil Nadu Dr. M.G.R. Medical University (TNMGRMU)",
+        "completion_year": 2005
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2004
+      }
+    ],
+    "experience_years": 16,
+    "city": "Patna",
+    "consultation_fees": 600,
+    "locality": "Patliputra",
+    "clinic_name": "Ashalok Neuropsychiatry Clinic"
+  },
+  {
+    "id": 653062,
+    "doctor_id": 647320,
+    "practice_id": 1224159,
+
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/647320/dr-vijendra-nath-jha-5c2781431533a.jpg"
+    },
+    "doctor_name": "Dr. Vijendra Nath Jha",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2008
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 14,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Sri Krishnapuri",
+    "clinic_name": "Budhha Neuropsychiatry"
+  },
+  {
+    "id": 782222,
+    "doctor_id": 951157,
+    "practice_id": 1349725,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/950938/dr-k-p-sharma-60faf82633d25.png"
+    },
+    "doctor_name": "Dr. Kailash Prasad Sharma",
+    "specialization": "Psychiatrist",
+    "qualifications": [
+      {
+        "qualification": "MD - Pediatrics",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1984
+      },
+      {
+        "qualification": "M.D. (Psychiatry)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1993
+      },
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1979
+      }
+    ],
+    "experience_years": 44,
+
+    "city": "Patna",
+    "consultation_fees": 1000,
+    "locality": "Phulwarisharif",
+    "clinic_name": "Laser Clinic"
+  },
+  {
+    "id": 604902,
+    "doctor_id": 624267,
+    "practice_id": 1161960,
+
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/624267/dr-rakesh-kumar-65d48aff91f95.jpg"
+    },
+    "doctor_name": "Dr. Rakesh Kumar",
+    "specialization": "Sexologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "University Of calicut",
+        "completion_year": 2004
+      },
+      {
+        "qualification": "DNB - Psychiatry",
+        "is_qualification_valid_in_country": true,
+        "college": "National Borad of Examinations Ministry of Health Government of India",
+        "completion_year": 2011
+      }
+    ],
+    "experience_years": 20,
+
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Sheikhpura",
+    "clinic_name": "Manas Clinic"
+  },
+  {
+    "id": 721548,
+    "doctor_id": 866449,
+    "practice_id": 1294379,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/866449/dr-ranjit-kumar-sinha-5fec59acbac44.png"
+    },
+    "doctor_name": "Dr. Ranjit Kumar Sinha",
+    "specialization": "Sexologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Nalanda Medical College, Patna",
+        "completion_year": 1982
+      }
+    ],
+    "experience_years": 42,
+
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Mithapur",
+    "clinic_name": "Aarogyam Clinical Hospital"
+  },
+  {
+    "id": 745617,
+    "doctor_id": 775116,
+    "practice_id": 1316545,
+
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/775116/dr-shashank-abhishek-5fe6caae4aed2.jpg"
+    },
+    "doctor_name": "Dr. Shashank Abhishek",
+    "specialization": "Sexologist",
+    "qualifications": [
+      {
+        "qualification": "MBBS",
+        "is_qualification_valid_in_country": true,
+        "college": "Ranchi University",
+        "completion_year": 2006
+      },
+      {
+        "qualification": "MS - General Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "Utkal University, Orissa, India",
+        "completion_year": 2011
+      },
+      {
+        "qualification": "DNB - Urology/Genito - Urinary Surgery",
+        "is_qualification_valid_in_country": true,
+        "college": "National Board of Examination, India",
+        "completion_year": 2017
+      }
+    ],
+    "experience_years": 18,
+
+    "city": "Patna",
+    "consultation_fees": 700,
+    "locality": "Rupas",
+    "clinic_name": "Nadiad Urology and Eye Center"
+  },
+  {
+    "id": 561177,
+    "doctor_id": 5785654,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-amresh-kumar-veterinary-physician-patna-7bbdc6d2-201a-4b4c-911c-3782ba635d88.jpg"
+    },
+    "doctor_name": "Dr. Amresh Kumar",
+    "specialization": "Veterinarian",
+    "qualifications": [
+      {
+        "qualification": "M. V. Sc",
+        "is_qualification_valid_in_country": true,
+        "college": "Rajendra Institute of Medical Sciences, Ranchi",
+        "completion_year": 1991
+      },
+      {
+        "qualification": "Bachelor in Veterinary Science and Animal Husbandary (BVSc & AH)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Medical College, Patna",
+        "completion_year": 1995
+      }
+    ],
+    "experience_years": 14,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Kankarbagh",
+    "clinic_name": ""
+  },
+  {
+    "id": 132469,
+    "doctor_id": 408633,
+    "profile_photo": {
+      "url": "https://imagesx.practo.com/providers/dr-sudhir-kumar-yoga-and-naturopathy-patna-3da32482-cd96-475a-9c55-bd56d5cc66c6.jpg"
+    },
+    "doctor_name": "Dr. Sudhir Kumar",
+    "specialization": "Yoga & Naturopathy",
+    "qualifications": [
+      {
+        "qualification": "Diploma in Naturopathy & Yogic Science (DNYS)",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      },
+      {
+        "qualification": "MD - Acupuncture",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Patna",
+        "completion_year": 2001
+      }
+    ],
+    "experience_years": 26,
+    "city": "Patna",
+    "consultation_fees": 300,
+    "locality": "Ashiananagar",
+    "clinic_name": "Divya Arogyam Nature Cure Hospital"
+  }
+]

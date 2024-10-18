@@ -1,0 +1,262 @@
+[
+  {
+    "id": 394198,
+    "doctor_id": 457371,
+    "practice_id": 906034,
+    "rank": "18",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/457371/dr-roshan-sharma-58e398db9c123.JPG"
+    },
+    "doctor_name": "Dr. Roshan Sharma",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Lal Bahadur Shastri Homoeopathic Medical College, Bhopal",
+        "completion_year": 2013
+      }
+    ],
+    
+    "experience_years": 11,
+    
+      "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Danapur Cantt",
+    "clinic_name": "Krishna Homoeopathic Clinic"
+  },
+  {
+    "id": 538234,
+    "doctor_id": 563804,
+    "practice_id": 1119204,
+    "rank": "15",
+    "doctor_name":"Dr Gopi Raman Agarwal",
+    "specialization":"Homoeopath",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/563804/dr-gopi-raman-agrawal-660d10f954fe9.jpg"
+    },
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 1987
+      }
+    ],
+    "experience_years": 37,
+    "city": "Patna",
+    "consultation_fees": 500,
+    "locality": "Lohia Nagar",
+    "clinic_name": "Dr. G. R. Agrawal"
+  },
+  {
+    "id": 554067,
+    "doctor_id": 574033,
+    "practice_id": 1130799,
+    "rank": "13",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/dr-rajeev-kumar-1476274041-57fe277987aec.jpg"
+    },
+    "doctor_name": "Dr. Rajeev Kumar",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+        "completion_year": 1984
+      },
+      {
+        "qualification": "DM - Oncology",
+        "is_qualification_valid_in_country": true,
+        "college": "Dr B. P. Singh Inst. of HYDT  Research & Clinic",
+        "completion_year": 2006
+      }
+    ],
+    "experience_years": 34,
+    "city": "Patna",
+    "consultation_fees": 1500,
+    "locality": "Ashiananagar",
+    "clinic_name": "Homeo Foundation"
+  },
+  {
+    "id": 618471,
+    "doctor_id": 639433,
+    "practice_id": 1176608,
+    "rank": "19",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/639433/dr-satendra-kumar-5b48e886e7ca7.jpg"
+    },
+    "doctor_name": "Dr. Satendra Kumar",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 2013
+      }
+    ],
+    "experience_years": 11,
+
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Bhikhana Pahari",
+    "clinic_name": "R.C. Homoeo Clinic"
+  },
+  {
+    "id": 622525,
+    "doctor_id": 644181,
+    "practice_id": 1180381,
+    "translated_new_slug": "tarkeshwar-singh-pharmacist",
+    "rank": "11",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/644181/dr-tarkeshwar-singh-5a9a38732ea64.jpg"
+    },
+    "doctor_name": "Dr. Tarkeshwar Singh",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "Patna Homeopathic Medical College & Hospital",
+        "completion_year": 1982
+      }
+    ],
+    "experience_years": 34,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Mahendru",
+    "clinic_name": "Vishwaraj Aarogya Homeo Niketan"
+  },
+  {
+    "id": 695283,
+    "doctor_id": 774832,
+    "practice_id": 1268609,
+    "rank": "20",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/774832/dr-anurag-kumar-5d9cbd2e0558b.jpg"
+    },
+    "doctor_name": "Dr. Anurag Kumar",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "University of Bihar",
+        "completion_year": 2018
+      }
+    ],
+    "experience_years": 6,
+    "city": "Patna",
+    "consultation_fees": 200,
+    "locality": "Boring Canal Road",
+    "clinic_name": "Multicare Homeo Clinic"
+  },
+  {
+    "id": 706105,
+    "doctor_id": 797668,
+    "practice_id": 1276853,
+    "rank": "17",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/797668/dr-vijay-kumar-pandey-62c0436b6efe7.jpg"
+    },
+    "doctor_name": "Dr. Vijay Kumar Pandey",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "MD - Homeopathy",
+        "is_qualification_valid_in_country": true,
+        "college": "G.D. Memorial Homoeopathic Medical College & Hospital",
+        "completion_year": 2016
+      },
+      {
+        "qualification": "PG Diploma in Clinical Nutrition & Dietetics",
+        "is_qualification_valid_in_country": true,
+        "college": "UPRTOU",
+        "completion_year": 2018
+      },
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Dr.Rambalak Singh Gaya Homeopathic Medical College & Hospital, Bodh Gaya",
+        "completion_year": 2010
+      }
+    ],
+    "experience_years": 13,
+    "city": "Patna",
+    "consultation_fees": 100,
+    "locality": "Digha",
+    "clinic_name": "Niramaya Homoeopathic & Diet Clinic"
+  },
+  {
+    "id": 735036,
+    "doctor_id": 887435,
+    "practice_id": 1307472,
+    "rank": "14",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/887435/dr-om-prakash-srivastawa-6240a6aa0e10b.jpg"
+    },
+    "doctor_name": "Dr. Om Prakash Shrivastawa",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "Bihar University",
+        "completion_year": 1983
+      }
+    ],
+    "consultation_fees": 200,
+    "locality": "Gardanibagh",
+    "clinic_name": "Prakash Homeo Clinic"
+  },
+  {
+    "id": 738786,
+    "doctor_id": 891395,
+    "practice_id": 1310266,
+    "rank": "12",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/891395/dr-mahesh-prasad-sinha-6069cdba04149.jpg"
+    },
+    "doctor_name": "Dr. Mahesh Prasad Sinha",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "DHMS (Diploma in Homeopathic Medicine and Surgery)",
+        "is_qualification_valid_in_country": true,
+        "college": "R.B.T.S. Govt. Homoeopathic Medical College, Muzaffarpur",
+        "completion_year": 1979
+      }
+    ],
+    "experience_years": 45,
+    "city": "Patna",
+    "consultation_fees": 2000,
+    "locality": "Kankarbagh",
+    "clinic_name": "Sinha Homeo Research Centre and Drug Transmission Clinic"
+  },
+  {
+    "id": 843802,
+    "doctor_id": 1032819,
+    "practice_id": 1406477,
+    "rank": "16",
+    "profile_photo": {
+      "url": "https://images1-fabric.practo.com/doctor/1032819/dr-sarita-kumari-637774abe7972.jpg"
+    },
+    "doctor_name": "Dr. Sarita Kumari",
+    "specialization": "Homoeopath",
+    "qualifications": [
+      {
+        "qualification": "BHMS",
+        "is_qualification_valid_in_country": true,
+        "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+        "completion_year": 2001
+      }
+    ],
+    "experience_years": 21,
+    "city": "Patna",
+    "consultation_fees": 400,
+    "locality": "Barh",
+    "clinic_name": "Aanand Homoeo Clinic"
+  }
+]
